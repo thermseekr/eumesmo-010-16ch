@@ -1302,7 +1302,7 @@
 			(uuid "78ea30aa-1b56-44ac-9a8d-b794726f9db0")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
 					(reference "U8")
 					(unit 1)
@@ -1391,7 +1391,7 @@
 			(uuid "7520070d-6fef-4c7f-9d09-cfbc509584fe")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
 					(reference "TP17")
 					(unit 1)
@@ -1552,7 +1552,7 @@
 			(uuid "624e9f74-bae5-4781-93d5-d8a1af25548c")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
 					(reference "U9")
 					(unit 1)
@@ -1641,7 +1641,7 @@
 			(uuid "57275668-d9ca-42bc-a5d6-0ba68662910c")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
 					(reference "TP16")
 					(unit 1)

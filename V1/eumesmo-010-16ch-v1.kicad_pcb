@@ -310,7 +310,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -621,7 +621,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -931,7 +931,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1266,7 +1266,7 @@
 		)
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1618,7 +1618,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1929,7 +1929,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b58d1cf0-a651-499e-a349-3da99c1819fb")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2252,7 +2252,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/670e1c4d-249a-4ca3-bb94-4df2daab98ec")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2563,7 +2563,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2886,7 +2886,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/4d28ac3f-a6e4-4ca3-be7f-25a566701291")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3196,7 +3196,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/5575821a-e8a3-494d-af75-b73f07d18646")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3508,7 +3508,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3ade5c6e-5a9f-4fd0-abe5-ec62c063d514")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3910,7 +3910,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/0da4a3fd-0a04-4d4e-8406-06e9c6d7e03d")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4857,7 +4857,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b447c0e3-b722-43d2-ab6d-28bcf8c4558c")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5167,7 +5167,7 @@
 		(property ki_fp_filters "ESP32?WROOM?32U*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b0931514-6c02-49fe-8596-b4b0c14568b9")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6142,7 +6142,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6452,7 +6452,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6762,7 +6762,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7072,7 +7072,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7382,7 +7382,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7693,7 +7693,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8028,7 +8028,7 @@
 		)
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8380,7 +8380,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8690,7 +8690,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/50a36a64-e52c-4b9f-866e-db64872f29de")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9001,7 +9001,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b04f12f7-767f-48ff-aaf7-4deb7cb285f6")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9311,7 +9311,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9621,7 +9621,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9931,7 +9931,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/6f3aca57-bed9-4af1-ae49-447b56451801")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10255,7 +10255,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10566,7 +10566,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10876,7 +10876,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11186,7 +11186,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11408,7 +11408,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/03bcb813-50ad-4c32-a465-0c052a9baf88")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11646,7 +11646,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11990,7 +11990,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12327,7 +12327,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12670,7 +12670,7 @@
 		(property ki_fp_filters "SOT* SC*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/cd29bfd0-65d4-4cf6-9655-1f0c5505f874")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13065,7 +13065,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/6fa78d3e-8932-4aff-86f7-7965588195c2")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13375,7 +13375,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/8daa82e7-fdd9-4289-a2ad-847f6b9554e8")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13685,7 +13685,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14088,7 +14088,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14399,7 +14399,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/0601f593-fb03-4664-bb46-845e757833df")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14873,7 +14873,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15183,7 +15183,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/88457282-94e8-4909-bbde-f71c644e1f6b")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15493,7 +15493,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/30fa9bf0-8000-415b-9d27-29a797abe41f")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15884,7 +15884,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/cffbe9f3-3e8b-473b-8dab-625d6974687a")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16195,7 +16195,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16518,7 +16518,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/3eb7a1f5-394e-4525-a489-76d4ace37bf4")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16843,7 +16843,7 @@
 		(property ki_fp_filters "SOT?363*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/55ce90c9-f586-4496-9458-c2eec6d26054")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17304,7 +17304,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17614,7 +17614,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17924,7 +17924,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/f33afa1f-6a42-46d4-9f36-740f194e373a")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18234,7 +18234,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18545,7 +18545,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18856,7 +18856,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19167,7 +19167,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19477,7 +19477,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19792,7 +19792,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/ffbf9c84-d973-436c-9c11-b9eed0aacf27")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20100,7 +20100,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/3d4049e5-6992-47b8-96ee-83e7721e3b6a")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20410,7 +20410,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/13b0e2cf-d651-477d-8df6-2482a8bea521")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20720,7 +20720,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/9e5e513c-4389-4b77-80fc-d7f9539c1362")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21111,7 +21111,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21421,7 +21421,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21756,7 +21756,7 @@
 		)
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22108,7 +22108,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/0601f593-fb03-4664-bb46-845e757833df")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22568,7 +22568,7 @@
 		(property ki_fp_filters "SSOP*5.3x7.2mm*P0.65mm*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/04ba1678-0ef8-4d5f-8182-de5a3db56721")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23179,7 +23179,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/a6997b97-7915-46eb-826f-19d1e0743fa6")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23401,7 +23401,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b40a9ca9-ef39-40af-8cfa-16b3516fd247")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23612,7 +23612,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23834,7 +23834,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/73236091-32ff-4280-90ed-9e9e6f19c6f6")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24142,7 +24142,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24558,7 +24558,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24868,7 +24868,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25178,7 +25178,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25579,7 +25579,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/d950b187-a78a-4f3d-a1de-3b841925454b")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25971,7 +25971,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/e4a8b76f-c8d9-475b-8687-227778dcea23")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26281,7 +26281,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b26f49ff-bcfc-4830-9635-6bd0c14c9743")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26592,7 +26592,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26929,7 +26929,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27273,7 +27273,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27583,7 +27583,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27893,7 +27893,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28216,7 +28216,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/265a3571-72b7-4e25-8a41-3ee07425f060")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28526,7 +28526,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/e4844673-51f7-4d04-999e-9cc28d737300")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28973,7 +28973,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/2ebfbf3a-14b1-4972-a0bd-0a51e0dda83e")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29469,7 +29469,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29871,7 +29871,7 @@
 		)
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/152388af-12d8-43a0-b9ea-c20a7469a512")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30279,7 +30279,7 @@
 		)
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30631,7 +30631,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30941,7 +30941,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/94008739-d18e-476d-9e20-a261c8e0514b")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31253,7 +31253,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/aecb34af-d9ce-4e11-a615-5f693b8e2e59")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31654,7 +31654,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31965,7 +31965,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32288,7 +32288,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/dfb7aba7-6ce9-4a66-aba5-a4ab3739bc61")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32598,7 +32598,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/24f2c889-6361-40b8-849a-357211b89570")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32906,7 +32906,7 @@
 		(property ki_fp_filters "SSOP*5.3x10.2mm*P0.65mm*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/c5c20b41-3e5e-4001-b533-9ceefa3ba57b")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33585,7 +33585,7 @@
 		(property ki_fp_filters "RJ45*Wuerth*7499010121A*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/877a384e-bf79-4264-b177-325d1e4235fd")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34177,7 +34177,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/f20be6cd-180d-4712-a356-b58279b278ac")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34400,7 +34400,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/a4e46a89-9dae-4834-86f1-c15dce2d40ef")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34709,7 +34709,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35030,7 +35030,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/18056315-33f7-480f-bc87-b2b980e3146f")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35341,7 +35341,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35678,7 +35678,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36021,7 +36021,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/b9970cc2-1dc3-47b3-92f1-76183e581452")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36330,7 +36330,7 @@
 		)
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/9da51854-0f27-44da-8f80-b4945e4c6112")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36683,7 +36683,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36993,7 +36993,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/1d3ec208-2833-4a80-8b02-7d2fb889aad3")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37303,7 +37303,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37613,7 +37613,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37923,7 +37923,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/580d97c2-f838-4d84-bbe7-2b006b3ff984")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38233,7 +38233,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38570,7 +38570,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38914,7 +38914,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39224,7 +39224,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39561,7 +39561,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39904,7 +39904,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40214,7 +40214,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/94954ab2-3217-4ade-94da-b36737e09831")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40550,7 +40550,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/f5bc655c-4c43-41a7-8e60-c5f9cde5bc89")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40894,7 +40894,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41204,7 +41204,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/80b4ccef-d5a4-43d6-b1ec-95b5ec307e97")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41541,7 +41541,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41898,7 +41898,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/ec881c08-dba5-4470-a62b-b3202fe188a4")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42221,7 +42221,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/1da77c5e-09fa-4f10-b227-c9a0c190478c")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42544,7 +42544,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42881,7 +42881,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43225,7 +43225,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43548,7 +43548,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43858,7 +43858,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/de4bf872-4251-44b2-8d5c-363760cdd1f1")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44078,7 +44078,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/12447a7c-8807-4004-bed1-970e81935a53")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44289,7 +44289,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/a302c482-c443-4c3d-a86d-a3da1f3e4816")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44599,7 +44599,7 @@
 		(property ki_fp_filters "SW?DIP?x2*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/ccdc5578-acee-438b-9e52-662934b5e15c")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45033,7 +45033,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/e60387c2-ff32-4f13-8333-29fcaf386447")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45506,7 +45506,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45816,7 +45816,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46127,7 +46127,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46452,7 +46452,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/f2335509-b1ec-4357-9b53-4ca194b4fb4b")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47418,7 +47418,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47729,7 +47729,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48039,7 +48039,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/3c01a3c7-8ad0-41fb-b9fe-cf76104ca9cc")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48376,7 +48376,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48719,7 +48719,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49042,7 +49042,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49365,7 +49365,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/16d58df6-a2fa-4bcb-ae1d-740816672830")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49675,7 +49675,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50078,7 +50078,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50388,7 +50388,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50712,7 +50712,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/3b5ba956-c81c-4c4a-be5d-0b9a8e92db1a")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51022,7 +51022,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/59dd5098-1667-4c8c-b049-a4d0ea90ec0e")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51346,7 +51346,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/6dba052a-0c92-4255-b5de-9657f6e17dc7")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51656,7 +51656,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/7c3416a0-4dc0-4ae1-83e0-d97e24070207")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51966,7 +51966,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/d28bce4c-aead-43de-9a90-592b77eff756")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52277,7 +52277,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d6f4a184-947f-4ac7-87e5-130c252ed5d4")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52639,7 +52639,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52982,7 +52982,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/7ac7667b-d77b-4834-9dd7-8a4771ada401")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53304,7 +53304,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/336a78c5-a044-4432-96b2-e658a1091374")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53614,7 +53614,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53951,7 +53951,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54321,7 +54321,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54665,7 +54665,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54975,7 +54975,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/068e1ed4-afa8-41c4-9ab1-7484b3769aff")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55196,7 +55196,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/974596f4-2eae-468d-b02d-5fdb8fefeb25")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55434,7 +55434,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55804,7 +55804,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56147,7 +56147,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56457,7 +56457,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/7e9a8e79-ec11-4303-b315-137a7563cb40")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56767,7 +56767,7 @@
 		(property ki_fp_filters "SSOP*1EP*3.9x4.9mm*P1mm*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/f5765c81-7a38-4902-8483-1297174fe6a4")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57268,7 +57268,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57612,7 +57612,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57947,7 +57947,7 @@
 		)
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58299,7 +58299,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58622,7 +58622,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/29ecd6f2-d5b8-4407-8569-e6a312cf3fa8")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58932,7 +58932,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59255,7 +59255,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/ca5770ac-d0fc-4158-b3d0-f2f871a9f475")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59565,7 +59565,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/2eba6e2e-f9bf-4d4b-a87f-18c5c7cdcd1f")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60035,7 +60035,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/6a108420-26c0-4519-a0a9-da878009ceb8")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60345,7 +60345,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60655,7 +60655,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60978,7 +60978,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61288,7 +61288,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61598,7 +61598,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61820,7 +61820,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/3ccbd5f6-544b-4ccf-a6ea-3b9f0fa393a7")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62058,7 +62058,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62428,7 +62428,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62796,7 +62796,7 @@
 		)
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -63149,7 +63149,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -63371,7 +63371,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/4118f95c-bd84-4bfd-95ac-69ddbc260c4a")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -63704,7 +63704,7 @@
 		)
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -64056,7 +64056,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -64393,7 +64393,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -64736,7 +64736,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -65047,7 +65047,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -65370,7 +65370,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/92c516cc-0df4-4e55-a948-18726a4ad0c5")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -65910,7 +65910,7 @@
 		)
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/960299f6-0313-42e3-ae4e-88ee8e6595dd")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -66262,7 +66262,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -66598,7 +66598,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -66853,7 +66853,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/9bd10ab2-7034-42d4-9415-caadb9a7c46c")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67162,7 +67162,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67472,7 +67472,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/18ab6932-9566-4f5d-a844-d3c5a29beb26")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67694,7 +67694,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/c29cf23c-7483-49d0-9de8-1b3548c25301")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67918,7 +67918,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/a75ff9c3-4e95-417f-b599-8037e57f0b76")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -68228,7 +68228,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -68538,7 +68538,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -68848,7 +68848,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -69251,7 +69251,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/090489a3-854b-4139-a37b-af75c75f2149")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -69561,7 +69561,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -69871,7 +69871,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -70274,7 +70274,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -70585,7 +70585,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -70896,7 +70896,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -71206,7 +71206,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -71529,7 +71529,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/f9a35d03-6941-4cda-bb78-859cc1aa9a4d")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -71839,7 +71839,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72175,7 +72175,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72518,7 +72518,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72828,7 +72828,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/33ecc1e1-df60-427e-92fb-9c2dd252d55b")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -73151,7 +73151,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/2c5d9a3a-d825-48b6-8c17-52fc6baaff30")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -73462,7 +73462,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -73772,7 +73772,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -74200,7 +74200,7 @@
 		)
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -74552,7 +74552,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -74955,7 +74955,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -75358,7 +75358,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -75668,7 +75668,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/570fb8a8-d1cc-47e0-a8d3-f0ea28ce3a53")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -75890,7 +75890,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/099c48c7-08b3-4057-9422-48c231b2ceb1")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -76198,7 +76198,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -76508,7 +76508,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b2a7f830-259a-4c52-8136-8d8e9e17ad30")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -76845,7 +76845,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -77189,7 +77189,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -77499,7 +77499,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -77809,7 +77809,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -78120,7 +78120,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -78430,7 +78430,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -78742,7 +78742,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6c6297ca-1f82-4eb0-a676-338544525471")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79170,7 +79170,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79513,7 +79513,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79733,7 +79733,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/29a3f34f-5d9e-430b-a539-2b12d1920b4d")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79945,7 +79945,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -80257,7 +80257,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8ff91021-5966-4f9b-940b-b85b81837d8b")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -80659,7 +80659,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -80970,7 +80970,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -81280,7 +81280,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -81577,7 +81577,7 @@
 		(property ki_fp_filters "SSOP*5.3x7.2mm*P0.65mm*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/a7497926-2b0e-433e-a284-2b80c1092fee")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -82175,7 +82175,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -82852,7 +82852,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -83162,7 +83162,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -83472,7 +83472,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -83888,7 +83888,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/8bb693e4-c722-4d34-91f1-7ed93ecd3862")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -84198,7 +84198,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -84522,7 +84522,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/11553f93-540d-4e39-80dd-cd7d334cc8db")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -84832,7 +84832,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/5f27297c-4841-4010-bc19-a6f85dd6b3bd")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -85155,7 +85155,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -85466,7 +85466,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -85776,7 +85776,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -86179,7 +86179,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -86489,7 +86489,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -86812,7 +86812,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -87135,7 +87135,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/a9c86946-9fac-455e-9bfb-8467764b20a5")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -87472,7 +87472,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -87840,7 +87840,7 @@
 		)
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -88192,7 +88192,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -88502,7 +88502,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -88905,7 +88905,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -89216,7 +89216,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -89527,7 +89527,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/08640ab0-e46d-4ec3-81ee-ddaca91e09a9")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -89850,7 +89850,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -90174,7 +90174,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/343a0a4c-a7af-4831-827e-8974172f64cb")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -90484,7 +90484,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/cb47cb57-6d87-4191-a03e-a3467c457d5c")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -90795,7 +90795,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -91132,7 +91132,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -91475,7 +91475,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -91785,7 +91785,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -92122,7 +92122,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 7/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -92465,7 +92465,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/3e68eb21-9326-4792-aa1f-4385d2f6fd8f")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -92856,7 +92856,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/b455683b-0932-4472-99c1-006fcb6b19b7")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -93167,7 +93167,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 15/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -93491,7 +93491,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -93801,7 +93801,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/c920d5dc-5c76-40a6-a2f6-d2b50199c839")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -94111,7 +94111,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -94446,7 +94446,7 @@
 		)
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -94825,7 +94825,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95168,7 +95168,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95478,7 +95478,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95785,7 +95785,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/dee72fc6-6f65-4cf4-bc77-44b9956eb231")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96281,7 +96281,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96591,7 +96591,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96902,7 +96902,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97212,7 +97212,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/d04c5b9a-0f43-4ece-9f5a-cf194a35023d")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97548,7 +97548,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97892,7 +97892,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -98227,7 +98227,7 @@
 		)
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -98579,7 +98579,7 @@
 		(property ki_fp_filters "*WSON*3x2mm?P0.5mm?EP1.75x1.63mm*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/d9806628-845c-4a8e-97c4-7fc4509bba71")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99055,7 +99055,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/e60387c2-ff32-4f13-8333-29fcaf386447")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99528,7 +99528,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99931,7 +99931,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100254,7 +100254,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 3/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100564,7 +100564,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/6335449c-7efc-49d4-abcf-c542b1aefcf4")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100875,7 +100875,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/174d922b-4134-4158-bb77-5884397d75f5")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -101221,7 +101221,7 @@
 		(property ki_fp_filters "QFN*1EP*5x5mm*P0.5mm*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/d1f01a80-4c60-480e-a9c5-499faed1789a")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102294,7 +102294,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/7a8b23ec-02e6-4d4d-a0e6-50993eb3a0b2")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102655,7 +102655,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/423ce8d8-76c8-429c-b101-4fab95c6ab93")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103059,7 +103059,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103370,7 +103370,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103705,7 +103705,7 @@
 		)
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103969,7 +103969,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/9589eec7-692a-4bc7-abf5-eca1c1c49c50")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104207,7 +104207,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104575,7 +104575,7 @@
 		)
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104928,7 +104928,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 13/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105150,7 +105150,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/8d9583d8-655b-4297-b4eb-2f55ac1aa855")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105360,7 +105360,7 @@
 		)
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/c07bfc6d-c47e-4ad5-bf22-cf9d70294350")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105898,7 +105898,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b606a06b-b643-4772-818d-e16b14d87a19")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106209,7 +106209,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106519,7 +106519,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106922,7 +106922,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 16/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107245,7 +107245,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/0b8594ab-ae20-4539-9061-d1b68fa61188")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107568,7 +107568,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 6/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107879,7 +107879,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108189,7 +108189,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 12/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108524,7 +108524,7 @@
 		)
 		(path "/1c051e73-1175-469e-a364-cac197036f64/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108901,7 +108901,7 @@
 		)
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 5/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109165,7 +109165,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/5c6ef0a0-9625-465e-9277-8160da8dafb7")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109376,7 +109376,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109686,7 +109686,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110009,7 +110009,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/d8958a68-3d5b-4668-9254-3da3f6c3e7f0")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110229,7 +110229,7 @@
 		(property ki_fp_filters "Fiducial*")
 		(path "/a4e9355e-f95f-42d7-b7ed-00c245c35b50")
 		(sheetname "/")
-		(sheetfile "eumesmo-io-24v16ch-v6.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110467,7 +110467,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 10/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110836,7 +110836,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111179,7 +111179,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/3bc2a5d9-b0fc-4418-8612-48f3afe9125b")
 		(sheetname "/LAN/")
-		(sheetfile "eumesmo-io-24v16ch-v6-lan.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-lan.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111515,7 +111515,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 1/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111860,7 +111860,7 @@
 		(property ki_fp_filters "D?SOD?523*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/bc39b75f-a6f1-4683-b5aa-d2baaa84d9e1")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112335,7 +112335,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 8/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112658,7 +112658,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112968,7 +112968,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/d230cbb0-66fc-428e-93da-81cd541babd9")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113279,7 +113279,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 4/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113602,7 +113602,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 9/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113914,7 +113914,7 @@
 		(property ki_fp_filters "D?SOD?523*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/7ffbc2f6-973c-4694-b9be-2f72208e700b")
 		(sheetname "/I2C Devices/")
-		(sheetfile "eumesmo-io-24v16ch-v6-i2c.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-i2c.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -114377,7 +114377,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 11/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -114714,7 +114714,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115058,7 +115058,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 14/")
-		(sheetfile "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-inputs9-16.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115381,7 +115381,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/6f4d6c87-6413-4946-a7db-86a02cde98fa")
 		(sheetname "/Power/")
-		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115716,7 +115716,7 @@
 		)
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 2/")
-		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-outputs1-8.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -116067,7 +116067,7 @@
 		)
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/600d89f0-be71-47b4-8189-dd0598cd0364")
 		(sheetname "/MCU/")
-		(sheetfile "eumesmo-io-24v16ch-v6-mcu.kicad_sch")
+		(sheetfile "eumesmo-010-16ch-v1-mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")

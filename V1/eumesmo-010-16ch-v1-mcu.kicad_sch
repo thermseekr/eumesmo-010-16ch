@@ -2509,7 +2509,7 @@
 		)
 		(uuid "b06e5530-ee36-4f58-bee0-fa88fa0ce532")
 	)
-	(text "TEMPLATE FOR GPIO ASSIGNMENT\n\n{\"NAME\":\"eumesmo-io-24v16ch-v6\",\"GPIO\":[0,3200,0,3232,0,0,0,0,5536,10240,10241,0,0,\n0,5600,0,0,0,0,5568,0,0,0,0,0,0,0,0,608,640,192,193,0,0,0,0],\"FLAG\":0,\"BASE\":1}\n\nSee https://tasmota.github.io/docs/Templates/"
+	(text "TEMPLATE FOR GPIO ASSIGNMENT\n\n{\"NAME\":\"eumesmo-010-16ch-v1\",\"GPIO\":[0,3200,0,3232,0,0,0,0,5536,10240,10241,0,0,\n0,5600,0,0,0,0,5568,0,0,0,0,0,0,0,0,608,640,192,193,0,0,0,0],\"FLAG\":0,\"BASE\":1}\n\nSee https://tasmota.github.io/docs/Templates/"
 		(exclude_from_sim no)
 		(at 15.24 133.35 0)
 		(effects
@@ -3953,7 +3953,7 @@
 			(uuid "d3384990-3295-4ed1-9ca8-2b7d5170afe1")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "TP11")
 					(unit 1)
@@ -4030,7 +4030,7 @@
 			(uuid "41a3b20c-c93f-4c9e-b963-731f914a4078")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR046")
 					(unit 1)
@@ -4196,7 +4196,7 @@
 			(uuid "e9fb8936-49e9-404f-b76e-2c7632ac2851")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R18")
 					(unit 1)
@@ -4376,7 +4376,7 @@
 			(uuid "6c2fdfc6-d220-4a5e-8693-788a362352ab")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "C17")
 					(unit 1)
@@ -4556,7 +4556,7 @@
 			(uuid "4e2d77cd-8db4-4fe7-9546-1a09ed80b584")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R13")
 					(unit 1)
@@ -4736,7 +4736,7 @@
 			(uuid "1bd0c0df-ab35-47f1-81ae-a9e849880efc")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R14")
 					(unit 1)
@@ -4905,7 +4905,7 @@
 			(uuid "cc72154f-bad3-4edb-81d5-e895043b460e")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "C18")
 					(unit 1)
@@ -4984,7 +4984,7 @@
 			(uuid "46e4bc33-9fe2-49f5-bb6c-a929830cac92")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR040")
 					(unit 1)
@@ -5063,7 +5063,7 @@
 			(uuid "d7106922-8d52-436f-812a-52d0ad0e554a")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR036")
 					(unit 1)
@@ -5152,7 +5152,7 @@
 			(uuid "1f6911d6-c668-40f8-9024-0e5c6e451e4b")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "TP12")
 					(unit 1)
@@ -5333,7 +5333,7 @@
 			(uuid "a519ca71-c60e-49c0-8dd1-5615b9d58bbe")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "Q3")
 					(unit 2)
@@ -5412,7 +5412,7 @@
 			(uuid "4a43d71c-e8a2-47cc-b698-d37d2da1c22d")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR039")
 					(unit 1)
@@ -5594,7 +5594,7 @@
 			(uuid "5c541981-6bfc-47c8-8578-a0f30c252e86")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "Q3")
 					(unit 1)
@@ -5673,7 +5673,7 @@
 			(uuid "d277adf2-da60-4867-af37-20b4204a5446")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR043")
 					(unit 1)
@@ -5842,7 +5842,7 @@
 			(uuid "38d76c7d-c904-403e-b5f6-e78daa00346d")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R20")
 					(unit 1)
@@ -6011,7 +6011,7 @@
 			(uuid "cd9c4405-ef6d-407d-b312-b0636250fdcf")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "SW1")
 					(unit 1)
@@ -6090,7 +6090,7 @@
 			(uuid "bd37e53e-77e4-4dad-866a-5c1217e34a71")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR035")
 					(unit 1)
@@ -6271,7 +6271,7 @@
 			(uuid "0e0d97aa-7620-4952-9cdf-49fb40657b94")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "C15")
 					(unit 1)
@@ -6348,7 +6348,7 @@
 			(uuid "3692b5b0-9c7b-4d35-baa1-cb2b0a6acde6")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR031")
 					(unit 1)
@@ -6425,7 +6425,7 @@
 			(uuid "a79f0257-fc9c-4584-9a75-993b3b86bee6")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR032")
 					(unit 1)
@@ -6504,7 +6504,7 @@
 			(uuid "196fbaab-5536-4c4c-a6d4-54236286c35c")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR042")
 					(unit 1)
@@ -6685,7 +6685,7 @@
 			(uuid "dff92dd1-34df-4075-b235-b6a939609ca0")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R17")
 					(unit 1)
@@ -6854,7 +6854,7 @@
 			(uuid "954e218b-d48f-463a-aeb1-c50cbe9fabbb")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "R19")
 					(unit 1)
@@ -7134,7 +7134,7 @@
 			(uuid "a3e63527-76ba-4df6-8810-c957f835b4f5")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "U5")
 					(unit 1)
@@ -7211,7 +7211,7 @@
 			(uuid "ffe266d9-848c-4de0-95cd-c6c8caf29db2")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR033")
 					(unit 1)
@@ -7290,7 +7290,7 @@
 			(uuid "9f08fa68-2528-49a4-935d-7807c3768bc4")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR044")
 					(unit 1)
@@ -7457,7 +7457,7 @@
 			(uuid "39e52357-4501-48b4-b5a2-c5f65beafd15")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "U3")
 					(unit 1)
@@ -7536,7 +7536,7 @@
 			(uuid "f8316bcf-9ab7-4356-aabb-c70213e9715b")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR041")
 					(unit 1)
@@ -7615,7 +7615,7 @@
 			(uuid "cdbc6c1c-2fd2-4814-87ee-1cf2ca365d32")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR047")
 					(unit 1)
@@ -7812,7 +7812,7 @@
 			(uuid "e6744d2f-eb6f-4858-92c0-5d9a8b17964b")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "U4")
 					(unit 1)
@@ -7993,7 +7993,7 @@
 			(uuid "cb0fd80a-f5de-45c1-bd66-c09473802a3a")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "C16")
 					(unit 1)
@@ -8070,7 +8070,7 @@
 			(uuid "d9f2e8de-4ba9-432d-827f-b01c78f06d3e")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR034")
 					(unit 1)
@@ -8147,7 +8147,7 @@
 			(uuid "14b40b97-78fc-45df-81d2-b84557a52a00")
 		)
 		(instances
-			(project "eumesmo-io-24v16ch-v6"
+			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
 					(reference "#PWR045")
 					(unit 1)
