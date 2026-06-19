@@ -1,5 +1,5 @@
 # ESP-POE-010V
-ESP32 based board with PoE, temperature/humidity sensor, and two 0-10V analog outputs for controlling dimmable LED drivers. The PoE power source avoids the need for additional cabling.
+ESP32 based board with 16x 0-10V analog output, for light dimming control.
 
 ## VERSION HISTORY
 
