@@ -7257,6 +7257,17 @@
 				)
 			)
 		)
+		(property "Technology" "Voltage Monitor"
+			(at 129.54 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "7fe89c9a-eb56-404c-83ca-ab708b5c4664")
 		)
@@ -11860,7 +11871,7 @@
 				)
 			)
 		)
-		(property "Technology" ""
+		(property "Technology" "PHY"
 			(at 176.53 88.9 0)
 			(hide yes)
 			(show_name no)

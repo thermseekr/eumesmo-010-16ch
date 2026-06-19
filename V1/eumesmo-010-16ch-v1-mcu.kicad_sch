@@ -7005,7 +7005,7 @@
 				)
 			)
 		)
-		(property "Technology" ""
+		(property "Technology" "MCU"
 			(at 179.07 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7441,6 +7441,17 @@
 				)
 			)
 		)
+		(property "Technology" "Voltage Monitor"
+			(at 143.51 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "b71a81f3-33c3-4c6f-9fd5-df7740cf2dd8")
 		)
@@ -7745,7 +7756,7 @@
 				)
 			)
 		)
-		(property "Technology" ""
+		(property "Technology" "USB/Serial"
 			(at 63.5 72.39 0)
 			(hide yes)
 			(show_name no)

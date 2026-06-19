@@ -1053,7 +1053,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "R39-54,D8-23",
+    "used_designators": "#FLG9,R39-54,#PWR1,#PWR37-38,#PWR70-71,#PWR73-76,#PWR79-80,D8-23,U8-9,U11-12,C26-27",
     "variants": []
   },
   "sheets": [
