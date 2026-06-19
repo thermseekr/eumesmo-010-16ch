@@ -535,7 +535,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "eumesmo-010-16ch-v1.kicad_pro",
+    "filename": "eumesmo-io-24v16ch-v6.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1048,18 +1048,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "eumesmo-010-16ch-v1.kicad_sch",
-        "name": "eumesmo-010-16ch-v1",
+        "filename": "eumesmo-io-24v16ch-v6.kicad_sch",
+        "name": "eumesmo-io-24v16ch-v6",
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "R39-54,D8-23",
+    "used_designators": "U8-9",
     "variants": []
   },
   "sheets": [
     [
       "2bc5a21a-1d79-419d-a592-6852cc07b00a",
-      "eumesmo-010-16ch-v1"
+      "eumesmo-io-24v16ch-v6"
     ],
     [
       "7b388c9c-6faf-4681-b727-510de2ea001e",
