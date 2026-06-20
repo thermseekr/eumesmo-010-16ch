@@ -3355,157 +3355,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Tales:GNDA"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "GNDA"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "GNDA_0_1"
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -2.54) (xy 0.127 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GNDA_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Tales:SY8089AAAC"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5890,6 +5739,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GNDA"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GNDA"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GNDA_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDA_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:PWR_FLAG"
 			(power global)
 			(pin_numbers
@@ -6084,7 +6048,7 @@
 	)
 	(text "ANALOG POWER RAILS"
 		(exclude_from_sim no)
-		(at 62.23 88.9 0)
+		(at 62.23 58.42 0)
 		(effects
 			(font
 				(size 2 2)
@@ -6223,12 +6187,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48d4b198-cb2f-48db-9d4a-54687dda10ec")
-	)
-	(junction
-		(at 160.02 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49a9dda4-f661-446a-a103-8b84a658b9bd")
 	)
 	(junction
 		(at 257.81 125.73)
@@ -6433,12 +6391,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eba42bce-40ed-457b-914a-322ff1946409")
-	)
-	(junction
-		(at 111.76 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "efbbbfa8-3479-4af1-8da3-95fabe638bec")
 	)
 	(junction
 		(at 118.11 160.02)
@@ -6805,16 +6757,6 @@
 			(type default)
 		)
 		(uuid "29ae2027-747c-4be0-852b-b7bcd4877b21")
-	)
-	(wire
-		(pts
-			(xy 160.02 67.31) (xy 160.02 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29ece58f-c832-4642-871b-2e3d42a82113")
 	)
 	(wire
 		(pts
@@ -7215,16 +7157,6 @@
 			(type default)
 		)
 		(uuid "65b853e2-591f-4ec9-ba1b-56b0e90fec41")
-	)
-	(wire
-		(pts
-			(xy 111.76 67.31) (xy 111.76 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66a604a4-594c-4a53-85be-20e0e21e7836")
 	)
 	(wire
 		(pts
@@ -7745,16 +7677,6 @@
 			(type default)
 		)
 		(uuid "958b686c-7996-4e28-9ae2-6dead0c03037")
-	)
-	(wire
-		(pts
-			(xy 74.93 67.31) (xy 74.93 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95b619b3-0c36-4338-aa1c-a69dc4bca533")
 	)
 	(wire
 		(pts
@@ -8878,83 +8800,6 @@
 			(justify left)
 		)
 		(uuid "fefcee20-532e-4b33-b305-32b345c71c83")
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 160.02 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0214061e-27bf-486b-9f98-8e0855133a8a")
-		(property "Reference" "#FLG011"
-			(at 160.02 65.405 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 160.02 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 160.02 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0b5761f3-0881-4080-8d31-586dd0016c87")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "#FLG011")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "power:+24V")
@@ -10231,7 +10076,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 96.52 78.74 0)
 		(unit 1)
 		(body_style 1)
@@ -10254,13 +10099,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 96.52 83.82 0)
+			(at 99.06 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -10285,7 +10131,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 96.52 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10544,7 +10390,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 74.93 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -10567,13 +10413,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 74.93 85.09 0)
+			(at 77.47 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -10598,7 +10445,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 74.93 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -11924,7 +11771,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 144.78 78.74 0)
 		(unit 1)
 		(body_style 1)
@@ -11947,13 +11794,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 144.78 83.82 0)
+			(at 147.32 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -11978,7 +11826,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 144.78 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13387,84 +13235,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 111.76 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "598fc02f-e303-4c08-950d-cb2fadcff173")
-		(property "Reference" "#FLG010"
-			(at 111.76 65.405 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 111.76 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 111.76 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "93cfe0a5-1799-4f93-a977-c0a6c4161fe7")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "#FLG010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 175.26 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -13487,13 +13258,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 175.26 85.09 0)
+			(at 177.8 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -13518,7 +13290,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 175.26 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -15069,83 +14841,6 @@
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "#FLG04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 74.93 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "79667d73-0eb9-4ec3-8452-4b928c5709bd")
-		(property "Reference" "#FLG09"
-			(at 74.93 65.405 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 74.93 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 74.93 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "357feea9-87a0-4105-9c45-7d7dd0544edb")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "#FLG09")
 					(unit 1)
 				)
 			)
@@ -17680,7 +17375,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 124.46 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -17703,13 +17398,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 124.46 85.09 0)
+			(at 127 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -17734,7 +17430,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 124.46 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -19840,7 +19536,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 66.04 76.2 0)
 		(unit 1)
 		(body_style 1)
@@ -19863,13 +19559,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 66.04 81.28 0)
+			(at 68.58 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -19894,7 +19591,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 66.04 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -19918,7 +19615,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 106.68 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -19941,13 +19638,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 106.68 85.09 0)
+			(at 109.22 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -19972,7 +19670,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 106.68 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -22089,7 +21787,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Tales:GNDA")
+		(lib_id "power:GNDA")
 		(at 157.48 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -22112,13 +21810,14 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 157.48 85.09 0)
+			(at 160.02 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -22143,7 +21842,7 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDA\" , reference analog ground"
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 157.48 80.01 0)
 			(hide yes)
 			(show_name no)
