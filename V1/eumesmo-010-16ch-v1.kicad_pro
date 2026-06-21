@@ -1053,7 +1053,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "#PWR1,#PWR35,#PWR70,#PWR75-76,#PWR78,#PWR82-87,#PWR91,#PWR96-131,#PWR137-140,C31",
+    "used_designators": "TP1-17,U1-16,C1-68,C71,SW1,J1-7,L1-3,FID1-4,R1-164,Q1-3,D1-23,#PWR1-157,#PWR161,#FLG1-7",
     "variants": []
   },
   "sheets": [
@@ -1076,6 +1076,10 @@
     [
       "8d06b51d-d00b-4f80-9ffb-ab0131290cf2",
       "I2C Devices"
+    ],
+    [
+      "0ac9531a-6215-4e11-9733-477ceab7f7f6",
+      "Analogs"
     ]
   ],
   "text_variables": {},
