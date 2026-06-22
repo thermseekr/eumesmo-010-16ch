@@ -6026,7 +6026,7 @@
 	)
 	(text "R2"
 		(exclude_from_sim no)
-		(at 199.39 68.58 0)
+		(at 199.39 71.12 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -6046,12 +6046,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a64d748-9e26-4c8d-a26f-62f3d061c642")
-	)
-	(junction
-		(at 52.07 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d3ce451-e53d-4611-a4cd-7cf1f72d69cc")
 	)
 	(junction
 		(at 156.21 39.37)
@@ -6240,12 +6234,6 @@
 		(uuid "b60a017b-c19d-4c9d-9afc-90395b855eed")
 	)
 	(junction
-		(at 203.2 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b6c13c4b-ac29-40b5-80a7-69d2d5a4f3b6")
-	)
-	(junction
 		(at 185.42 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6270,12 +6258,6 @@
 		(uuid "c2a78c5a-42c6-44e2-bb85-543a4d5248d2")
 	)
 	(junction
-		(at 57.15 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3e78b46-a2a3-45bc-bfca-0a8aad0cf8e2")
-	)
-	(junction
 		(at 45.72 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6292,6 +6274,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d21e169d-9b29-47c4-8e75-9a28659620d0")
+	)
+	(junction
+		(at 203.2 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d817985c-b187-4b01-b30d-f87454b13ab4")
 	)
 	(junction
 		(at 274.32 39.37)
@@ -6951,16 +6939,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 46.99) (xy 62.23 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6083cf9f-6d2a-498d-bdac-911bd4116291")
-	)
-	(wire
-		(pts
 			(xy 33.02 144.78) (xy 33.02 146.05)
 		)
 		(stroke
@@ -6978,16 +6956,6 @@
 			(type default)
 		)
 		(uuid "611da68d-062f-483c-98bd-6bea66a6cd0f")
-	)
-	(wire
-		(pts
-			(xy 52.07 46.99) (xy 57.15 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6120465c-89c5-42b1-b086-1848fe18f9a4")
 	)
 	(wire
 		(pts
@@ -7161,7 +7129,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 58.42) (xy 203.2 59.69)
+			(xy 203.2 58.42) (xy 203.2 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7741,16 +7709,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 45.72) (xy 62.23 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b15d9515-acc9-4fc0-a8bc-93545539c018")
-	)
-	(wire
-		(pts
 			(xy 43.18 160.02) (xy 45.72 160.02)
 		)
 		(stroke
@@ -7881,7 +7839,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 67.31) (xy 203.2 68.58)
+			(xy 203.2 69.85) (xy 203.2 71.12)
 		)
 		(stroke
 			(width 0)
@@ -7898,16 +7856,6 @@
 			(type default)
 		)
 		(uuid "c89711dd-acd8-4a7e-8c76-7b31213e49a8")
-	)
-	(wire
-		(pts
-			(xy 57.15 45.72) (xy 57.15 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8a1a908-8232-4749-b8f1-1b096d82a53c")
 	)
 	(wire
 		(pts
@@ -8853,95 +8801,6 @@
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 57.15 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "099c48c7-08b3-4057-9422-48c231b2ceb1")
-		(property "Reference" "TP4"
-			(at 55.88 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 55.88 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
-			(at 62.23 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 57.15 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 57.15 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fa86923d-1a45-4cba-b56c-16438601886b")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -17536,7 +17395,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 203.2 68.58 0)
+		(at 203.2 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17546,7 +17405,7 @@
 		(dnp no)
 		(uuid "ac760323-e36a-4347-a226-7716871c3b69")
 		(property "Reference" "#PWR010"
-			(at 203.2 74.93 0)
+			(at 203.2 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17557,7 +17416,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.327 72.9742 0)
+			(at 203.327 75.5142 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17568,7 +17427,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 68.58 0)
+			(at 203.2 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17579,7 +17438,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 68.58 0)
+			(at 203.2 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17590,7 +17449,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 68.58 0)
+			(at 203.2 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17870,7 +17729,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 203.2 63.5 0)
+		(at 203.2 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17881,17 +17740,6 @@
 		(fields_autoplaced yes)
 		(uuid "b447c0e3-b722-43d2-ab6d-28bcf8c4558c")
 		(property "Reference" "R5"
-			(at 205.74 60.9599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "52,3k/100mW"
 			(at 205.74 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17902,8 +17750,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "52,3k/100mW"
+			(at 205.74 66.0399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "Tales:R_0603_1608Metric"
-			(at 204.216 63.754 90)
+			(at 204.216 66.294 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17914,7 +17773,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17925,7 +17784,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17936,7 +17795,7 @@
 			)
 		)
 		(property "Technology" "1%"
-			(at 205.74 65.405 0)
+			(at 205.74 67.945 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17948,7 +17807,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17959,7 +17818,7 @@
 			)
 		)
 		(property "LCSC Part #" "C23198"
-			(at 205.74 66.0399 0)
+			(at 205.74 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17970,7 +17829,7 @@
 			)
 		)
 		(property "Mfr" "Uniroyal"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17981,7 +17840,7 @@
 			)
 		)
 		(property "Mfr PN" "0603WAF5232T5E"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17992,7 +17851,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18003,7 +17862,7 @@
 			)
 		)
 		(property "Vendor PN" "C23198"
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18014,7 +17873,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18025,7 +17884,7 @@
 			)
 		)
 		(property "Case" "0603/1608 "
-			(at 203.2 63.5 0)
+			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21133,95 +20992,6 @@
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 62.23 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ffbf9c84-d973-436c-9c11-b9eed0aacf27")
-		(property "Reference" "TP5"
-			(at 60.96 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 60.96 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
-			(at 67.31 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 67.31 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 62.23 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 62.23 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1a833767-4d12-4f0c-bdf4-9da3531e9fcc")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
