@@ -305,7 +305,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|406400|1168400|f2335509-b1ec-4357-9b53-4ca194b4fb4b|00000000-0000-0000-0000-000000000000|||",
+        "Pins reordered to facilitate the representation."
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -1053,7 +1058,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "TP1-17,U1-16,C1-68,C71,SW1,J1-7,L1-3,FID1-4,R1-164,Q1-3,D1-23,#PWR1-157,#PWR161,#FLG1-7",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
