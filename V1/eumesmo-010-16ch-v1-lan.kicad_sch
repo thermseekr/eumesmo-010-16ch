@@ -5,9 +5,9 @@
 	(uuid "6c33f4ff-7ffb-4387-9626-ca1bbece1989")
 	(paper "A4")
 	(title_block
-		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-06-17")
-		(rev "V6.2")
+		(title "eumesmo 24V 16x 0-10V module")
+		(date "2026-06-23")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -4347,12 +4347,6 @@
 		(uuid "ddc0fa0f-d77a-43f2-ac7a-dddfc01f0879")
 	)
 	(junction
-		(at 59.69 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de9d0591-bbee-474d-bb59-912e52de2198")
-	)
-	(junction
 		(at 237.49 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4972,7 +4966,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 116.84) (xy 59.69 116.84)
+			(xy 34.29 116.84) (xy 156.21 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5419,16 +5413,6 @@
 			(type default)
 		)
 		(uuid "a0a64049-c949-4f0f-a51a-5f87dce2f082")
-	)
-	(wire
-		(pts
-			(xy 59.69 116.84) (xy 156.21 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a12e8fd1-1cd1-4d56-bd9e-0763bebc4581")
 	)
 	(wire
 		(pts
@@ -5939,16 +5923,6 @@
 			(type default)
 		)
 		(uuid "e4a0a6f5-3a98-48ff-898e-d084abe06918")
-	)
-	(wire
-		(pts
-			(xy 59.69 115.57) (xy 59.69 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4c87871-8759-4a82-91d4-e8d8eb5543d8")
 	)
 	(wire
 		(pts
@@ -6606,7 +6580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08b88cf2-df26-4792-be37-915c067186c4")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 184.15 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6667,7 +6641,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -6690,7 +6664,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "13b0e2cf-d651-477d-8df6-2482a8bea521")
-		(property "Reference" "R28"
+		(property "Reference" "R29"
 			(at 245.11 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6839,7 +6813,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R28")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -6857,7 +6831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14998ee5-a2e4-4e48-b1a3-48509de09e22")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 228.6 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6918,7 +6892,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -6941,7 +6915,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d3ec208-2833-4a80-8b02-7d2fb889aad3")
-		(property "Reference" "R30"
+		(property "Reference" "R31"
 			(at 67.31 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7090,7 +7064,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R30")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7113,7 +7087,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "2eb49dee-10f0-4f66-af4c-b187fe0677c6")
-		(property "Reference" "TP14"
+		(property "Reference" "TP10"
 			(at 128.27 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7185,7 +7159,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP14")
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -7380,7 +7354,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33ecc1e1-df60-427e-92fb-9c2dd252d55b")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 81.28 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7532,7 +7506,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -7549,7 +7523,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3bc2a5d9-b0fc-4418-8612-48f3afe9125b")
-		(property "Reference" "R23"
+		(property "Reference" "R24"
 			(at 91.44 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7701,7 +7675,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -7718,7 +7692,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c01a3c7-8ad0-41fb-b9fe-cf76104ca9cc")
-		(property "Reference" "R29"
+		(property "Reference" "R30"
 			(at 254 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7867,7 +7841,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R29")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -8059,7 +8033,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ae04d47-8222-478d-bf1f-4a0790a5d681")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 129.54 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8120,7 +8094,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -8143,7 +8117,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50a36a64-e52c-4b9f-866e-db64872f29de")
-		(property "Reference" "R33"
+		(property "Reference" "R34"
 			(at 254 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8292,7 +8266,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R33")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -8485,7 +8459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "580d97c2-f838-4d84-bbe7-2b006b3ff984")
-		(property "Reference" "R31"
+		(property "Reference" "R32"
 			(at 78.74 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8634,7 +8608,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R31")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -8657,7 +8631,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6335449c-7efc-49d4-abcf-c542b1aefcf4")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 121.92 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8809,7 +8783,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -8827,7 +8801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d9daa28-1890-463e-866e-a0d10c377354")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 207.01 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8888,7 +8862,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -8911,7 +8885,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e95479f-924a-4505-a185-e86fe13e72d0")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR059"
 			(at 127 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8972,7 +8946,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR058")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -8995,7 +8969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80b4ccef-d5a4-43d6-b1ec-95b5ec307e97")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 71.12 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9147,7 +9121,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -9164,7 +9138,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "83231446-7f5e-4ef0-ae77-11c236cd6437")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 73.66 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9224,7 +9198,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -9248,7 +9222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "854853cf-38ea-4cc4-86c1-500989e104c2")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 154.94 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9309,7 +9283,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -9332,7 +9306,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8714790f-1160-468e-a0e0-4284086a1c9c")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 241.3 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9393,7 +9367,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -9620,7 +9594,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87fc3bed-9eac-4f00-b69a-cdd9d6b97884")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR072"
 			(at 43.18 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9680,7 +9654,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR071")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -9697,7 +9671,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d7a5133-b6a5-4738-93c5-e974b3ac159b")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR075"
 			(at 73.66 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -9758,102 +9732,13 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR074")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
 			(project "ESP-24v-16ch-v4-lan"
 				(path "/6c33f4ff-7ffb-4387-9626-ca1bbece1989"
 					(reference "#PWR042")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 59.69 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8d9583d8-655b-4297-b4eb-2f55ac1aa855")
-		(property "Reference" "TP15"
-			(at 53.34 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CLK"
-			(at 60.96 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 64.77 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 59.69 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 59.69 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "165eda5f-7543-43cc-a783-2c61e4f4ae2b")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -9870,7 +9755,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8daa82e7-fdd9-4289-a2ad-847f6b9554e8")
-		(property "Reference" "R25"
+		(property "Reference" "R26"
 			(at 111.76 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10022,7 +9907,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R25")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -10123,7 +10008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90db005b-70fd-4d2c-b6cb-552973106d4a")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 248.92 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10184,7 +10069,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -10382,7 +10267,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9bb49f1b-7c81-46b8-969e-d98ffca752d5")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 129.54 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10442,7 +10327,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -10640,7 +10525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aca24b8b-166d-49a1-abaa-d277f82b87bc")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR071"
 			(at 72.39 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10701,7 +10586,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR070")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -10724,7 +10609,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b455683b-0932-4472-99c1-006fcb6b19b7")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 60.96 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10876,7 +10761,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -10893,7 +10778,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9970cc2-1dc3-47b3-92f1-76183e581452")
-		(property "Reference" "R24"
+		(property "Reference" "R25"
 			(at 101.6 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11045,7 +10930,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R24")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -11063,7 +10948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc254370-16b1-4895-9401-6852440e6182")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 149.86 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11124,7 +11009,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -11147,7 +11032,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8c3b150-bfc8-4c15-a896-c4fece33c1d4")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 176.53 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -11207,7 +11092,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR055")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -11405,7 +11290,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cac74f1a-b836-457c-95ed-bdd292ef2fb9")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 205.74 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11466,7 +11351,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -11489,7 +11374,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd29bfd0-65d4-4cf6-9655-1f0c5505f874")
-		(property "Reference" "D7"
+		(property "Reference" "D8"
 			(at 252.73 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11647,7 +11532,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "D7")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -11670,7 +11555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf91d514-dab1-4eeb-a1ac-9b9b61c8a1ea")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 261.62 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11730,7 +11615,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -11753,7 +11638,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cfd06532-f111-4763-833f-573b0d5b9611")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR076"
 			(at 48.26 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -11814,7 +11699,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR075")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -12106,7 +11991,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d28bce4c-aead-43de-9a90-592b77eff756")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 49.53 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12258,7 +12143,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -12275,7 +12160,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "d9a87a6b-2f90-44f0-bbdf-a52a4bc22815")
-		(property "Reference" "TP13"
+		(property "Reference" "TP9"
 			(at 247.65 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12347,7 +12232,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP13")
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -12364,7 +12249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd82a2aa-692f-4534-aee8-571b5318ef5d")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR055"
 			(at 154.94 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -12424,7 +12309,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR054")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -12622,7 +12507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2964f69-1ac4-48ff-a106-84fe8559cd26")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 176.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -12683,7 +12568,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -12706,7 +12591,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4a8b76f-c8d9-475b-8687-227778dcea23")
-		(property "Reference" "R27"
+		(property "Reference" "R28"
 			(at 208.28 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12858,7 +12743,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R27")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -12881,7 +12766,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f15e5f2c-72e6-45e1-a5fa-13bb33582a20")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 48.26 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -12941,7 +12826,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -12964,7 +12849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f33afa1f-6a42-46d4-9f36-740f194e373a")
-		(property "Reference" "R32"
+		(property "Reference" "R33"
 			(at 245.11 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13113,7 +12998,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "R32")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -13130,7 +13015,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff3cc2fe-45bf-4cc3-aa98-15b922dc549e")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 184.15 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13190,7 +13075,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)

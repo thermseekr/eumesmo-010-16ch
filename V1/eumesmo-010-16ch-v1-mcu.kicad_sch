@@ -5,134 +5,11 @@
 	(uuid "21292081-4969-4512-9eb8-17e5978a6df3")
 	(paper "A4")
 	(title_block
-		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-06-17")
-		(rev "V6.2")
+		(title "eumesmo 24V 16x 0-10V module")
+		(date "2026-06-23")
+		(rev "V1.0")
 	)
 	(lib_symbols
-		(symbol "Connector:TestPoint"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TestPoint_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -2790,12 +2667,6 @@
 		(uuid "5e9da682-cf09-409f-bd51-0b1461e53419")
 	)
 	(junction
-		(at 39.37 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60b947de-d6f8-443d-8142-142d75e18d53")
-	)
-	(junction
 		(at 260.35 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2818,12 +2689,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6666c69-f986-4b13-94f8-9afc1bccc721")
-	)
-	(junction
-		(at 48.26 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac729804-b0f6-45b0-b4b8-0e02587cb5ce")
 	)
 	(junction
 		(at 92.71 59.69)
@@ -2973,7 +2838,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 72.39) (xy 48.26 72.39)
+			(xy 38.1 72.39) (xy 53.34 72.39)
 		)
 		(stroke
 			(width 0)
@@ -3043,16 +2908,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 72.39) (xy 53.34 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "385b633d-d6c8-4c51-93e5-fc8bdb4eb6d4")
-	)
-	(wire
-		(pts
 			(xy 246.38 104.14) (xy 246.38 105.41)
 		)
 		(stroke
@@ -3073,7 +2928,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 69.85) (xy 39.37 69.85)
+			(xy 38.1 69.85) (xy 53.34 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3613,16 +3468,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 67.31) (xy 39.37 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9dc7605-3a22-4c08-9296-b50d93ac4b03")
-	)
-	(wire
-		(pts
 			(xy 194.31 99.06) (xy 224.79 99.06)
 		)
 		(stroke
@@ -3713,16 +3558,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 69.85) (xy 53.34 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1bc48a2-663f-434b-80b6-65818694a1ae")
-	)
-	(wire
-		(pts
 			(xy 209.55 52.07) (xy 209.55 54.61)
 		)
 		(stroke
@@ -3800,16 +3635,6 @@
 			(type default)
 		)
 		(uuid "fc0ab267-1cda-4195-8318-33b39fb3ea62")
-	)
-	(wire
-		(pts
-			(xy 48.26 67.31) (xy 48.26 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcafb0f4-0e4a-43b4-b856-ab471f922aeb")
 	)
 	(wire
 		(pts
@@ -4096,95 +3921,6 @@
 		(uuid "f202a5fa-cab8-424f-9526-5c2e296ff4a8")
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 39.37 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "03bcb813-50ad-4c32-a465-0c052a9baf88")
-		(property "Reference" "TP11"
-			(at 38.1 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D+"
-			(at 38.1 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 44.45 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 39.37 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 39.37 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d3384990-3295-4ed1-9ca8-2b7d5170afe1")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "TP11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Tales:+3V3")
 		(at 260.35 104.14 0)
 		(unit 1)
@@ -4195,7 +3931,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0519872c-bc4a-4f26-8257-fa796c0936db")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 260.35 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4255,7 +3991,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -4272,7 +4008,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "090489a3-854b-4139-a37b-af75c75f2149")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 209.55 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4421,7 +4157,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -5295,95 +5031,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 48.26 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3ccbd5f6-544b-4ccf-a6ea-3b9f0fa393a7")
-		(property "Reference" "TP12"
-			(at 46.99 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D-"
-			(at 46.99 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 53.34 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 48.26 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 48.26 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1f6911d6-c668-40f8-9024-0e5c6e451e4b")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "TP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_BJT:UMH3N")
 		(at 106.68 59.69 0)
 		(unit 2)
@@ -5837,7 +5484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "562254c4-ccc0-4d8f-866d-d577208ba418")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR050"
 			(at 246.38 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -5898,7 +5545,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR049")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -5915,7 +5562,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "59dd5098-1667-4c8c-b049-a4d0ea90ec0e")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 262.89 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6067,7 +5714,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -6331,7 +5978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87064c06-a425-4cc8-b5f8-ceeb55d27eb0")
-		(property "Reference" "#PWR0158"
+		(property "Reference" "#PWR047"
 			(at 254 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6392,7 +6039,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR0158")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -6487,7 +6134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93ce4935-ff05-44db-877f-8cc4552d696a")
-		(property "Reference" "R133"
+		(property "Reference" "R15"
 			(at 232.41 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6636,7 +6283,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "R133")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -6654,7 +6301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a41775f1-fc39-4ed5-9d93-332d2de5322a")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR049"
 			(at 63.5 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -6715,7 +6362,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR048")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -6733,7 +6380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a75ff9c3-4e95-417f-b599-8037e57f0b76")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 248.92 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6896,7 +6543,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6913,7 +6560,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b04f12f7-767f-48ff-aaf7-4deb7cb285f6")
-		(property "Reference" "R17"
+		(property "Reference" "R18"
 			(at 248.92 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7065,7 +6712,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "R17")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -7363,7 +7010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b403eeab-3d74-4086-8167-33ffafb0299a")
-		(property "Reference" "D24"
+		(property "Reference" "D7"
 			(at 250.1265 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7534,7 +7181,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "D24")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -7629,7 +7276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dee4cfcf-0823-4de5-9d78-c9e2396a381f")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR051"
 			(at 123.19 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -7690,7 +7337,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR050")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -7886,7 +7533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f02162b3-4e68-4dd5-b732-dc3268f334e8")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 143.51 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7947,7 +7594,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -7965,7 +7612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0ddbf62-90c7-4cc3-b60b-4df372ab9325")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 179.07 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8026,7 +7673,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -8498,7 +8145,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff354a2b-d70a-42a2-938e-eb94843b4288")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 246.38 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8558,7 +8205,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/f2a42251-1da5-495a-abaf-29698c5bb0fe"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)

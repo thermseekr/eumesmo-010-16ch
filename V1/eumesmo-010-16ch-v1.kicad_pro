@@ -53,7 +53,7 @@
           "45_degree_only": false,
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.3,
+          "corner_radius": 0.5,
           "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
@@ -64,10 +64,10 @@
           "min_clearance": 0.4,
           "min_island_area": 10.0,
           "min_thickness": 0.2,
-          "pad_connection": 2,
+          "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.508,
-          "thermal_relief_spoke_width": 0.508
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.7
         }
       },
       "diff_pair_dimensions": [
@@ -82,7 +82,72 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_overlap|136520000|104480000|86343104-bc84-4912-b8ed-be30895243e2|e4bd0b8d-8e14-4619-96b8-e8e8196a8e97",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|136520000|109730000|5ca6ec8c-3d14-4928-8259-b052988a4ca5|93d6d824-b3e7-4f57-bd5c-b604b1756de9",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|136520000|114980000|047c96ba-126c-4186-8490-48419a598cb2|d6a66cb7-c503-4a5b-b258-d930a2e619c3",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|136520000|99230000|33659dac-31f4-4236-b7fe-2012ae07af77|552fecd1-8955-40b7-88b3-f12d617799e9",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|139770000|104480000|491794d2-f5d3-4a77-89fb-0f527e7b16df|bb8b86de-fa54-41ac-b9d6-3f1e022f2dad",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|139770000|109730000|4900beb0-b102-49da-ae86-88af9a45a9c1|5800aad3-ab38-4559-9081-c2861f4ac332",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|139770000|114980000|8de59b8c-0270-41c3-99c4-fbf66c8e1e5f|8e4b4c97-7adc-404b-8132-2d4fbca4dbba",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|139770000|99230000|23fd2a69-dfd6-451c-ad5c-089ae522d4d9|8d45fbdb-b5ee-452b-99c1-e8a7e2061836",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|143020000|104480000|224c80f5-3a9a-4751-b0ab-4f1c49bd50bb|e493815b-ef74-4921-a5dc-1f93699479a6",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|143020000|109730000|44b57271-4f39-4b98-9e88-42ce8889aa95|87f09b46-2e0e-42e4-b607-87441a9c2469",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|143020000|114980000|204aea03-567f-45a7-8919-167ba7387574|c520c441-e289-41e7-98be-1a16c9bcf3e5",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|143020000|99230000|390e5bd2-817e-4fef-9b44-4c24367e6241|df182306-866e-4caf-87d1-b13ab4215eb4",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|146270000|104480000|9dcc33b3-1196-496b-9936-cb31a1c74cd9|aa38f7fc-9f04-4edf-89fa-656f363219ba",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|146270000|109730000|9e06b25d-9d91-46ec-af61-b7c6412af27e|bd55f733-ee7a-4f37-8b98-09818058b3f9",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|146270000|114980000|71cecd67-8f70-4d53-bd1a-f63202077655|dd04ce74-11b8-45f6-a8e4-80e60f5f665a",
+          "Interference accepted."
+        ],
+        [
+          "silk_overlap|146270000|99230000|1b42ed42-9caa-4ce3-abf3-621e1b8d219a|71fafde3-e685-4b3f-ac26-3d613949d25e",
+          "Interference accepted."
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -285,7 +350,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V6.2"
+      "sch_revision": "V1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -1058,7 +1123,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "R60,R69-70,R79-80,R89-90,R99-100,R109-110,R119-120,R129-130,C69-84",
+    "used_designators": "R1-133,#FLG1-7,J1-7,C1-84,#PWR1-159,D1-24,L1-3,FID1-4,Q1-3,SW1,TP1-15,U1-16",
     "variants": []
   },
   "sheets": [

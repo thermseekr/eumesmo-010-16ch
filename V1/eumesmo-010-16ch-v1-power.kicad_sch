@@ -5,9 +5,9 @@
 	(uuid "4a2bacc3-a737-4851-ab59-7897d0537665")
 	(paper "A4")
 	(title_block
-		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-06-17")
-		(rev "V6.2")
+		(title "eumesmo 24V 16x 0-10V module")
+		(date "2026-06-23")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -9061,7 +9061,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "10aacaf2-535c-4904-8b0e-177e86567294")
-		(property "Reference" "TP8"
+		(property "Reference" "TP6"
 			(at 154.94 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9133,7 +9133,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP8")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -11807,7 +11807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4118f95c-bd84-4bfd-95ac-69ddbc260c4a")
-		(property "Reference" "TP10"
+		(property "Reference" "TP8"
 			(at 116.84 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11879,7 +11879,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP10")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -12083,7 +12083,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "4aac4442-baf7-4efd-8f76-5e2cf806af72")
-		(property "Reference" "TP9"
+		(property "Reference" "TP7"
 			(at 241.3 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12155,7 +12155,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP9")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -17651,7 +17651,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b40a9ca9-ef39-40af-8cfa-16b3516fd247")
-		(property "Reference" "TP6"
+		(property "Reference" "TP4"
 			(at 224.79 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17721,7 +17721,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP6")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -18528,7 +18528,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c29cf23c-7483-49d0-9de8-1b3548c25301")
-		(property "Reference" "TP7"
+		(property "Reference" "TP5"
 			(at 266.7 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18598,7 +18598,7 @@
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP7")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
