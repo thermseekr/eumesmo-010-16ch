@@ -1,5 +1,5 @@
 # eumesmo-010-16ch
-ESP32 based board with 16x 0-10V analog output, for light dimming control.
+ESP32 based board with 16x 0-10V analog output, for light dimming control. The board has a DC-DC Converter and an I2C isolator to keep the digital and analog domains fully separated.
 
 The board is compatible with the SP7 DIN rail system from Metaltex.
 
