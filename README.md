@@ -1,9 +1,9 @@
-# ESP-POE-010V
+# eumesmo-010-16ch
 ESP32 based board with 16x 0-10V analog output, for light dimming control.
 
 ## VERSION HISTORY
 
-ESP-POE-010V V1.0 - Initial release.
+2026-06-24 V1.0 - Initial release.
 
 ## LICENSE
 
