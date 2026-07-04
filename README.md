@@ -7,7 +7,7 @@ The board is compatible with the SP7 DIN rail system from Metaltex.
 
 ## VERSION HISTORY
 
-2026-06-24 V1.0 - Initial release.
+2026-07-02 V1.0 - Initial release.
 
 ## LICENSE
 
