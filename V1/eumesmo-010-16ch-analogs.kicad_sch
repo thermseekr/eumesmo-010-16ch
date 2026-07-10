@@ -6177,17 +6177,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 73.66 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 76.2 66.04 0)
 			(show_name no)
@@ -6420,17 +6409,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 121.92 0)
 			(hide yes)
@@ -6621,17 +6599,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 372.11 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 372.11 64.77 0)
 			(hide yes)
@@ -6805,17 +6772,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -7062,17 +7018,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 96.52 0)
 			(hide yes)
@@ -7309,17 +7254,6 @@
 		)
 		(property "LCSC Part #" "C17714"
 			(at 293.37 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 91.44 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7572,17 +7506,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 209.55 210.82 0)
 			(hide yes)
@@ -7676,17 +7599,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -7933,17 +7845,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 198.12 0)
 			(hide yes)
@@ -8110,17 +8011,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 209.55 58.42 0)
 			(hide yes)
@@ -8279,17 +8169,6 @@
 		)
 		(property "LCSC Part #" "C17714"
 			(at 147.32 160.02 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 152.4 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8466,17 +8345,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -8738,17 +8606,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 254 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 256.54 219.71 0)
 			(show_name no)
@@ -8908,17 +8765,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 73.66 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 73.66 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -9097,17 +8943,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -9364,17 +9199,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 119.38 0)
 			(hide yes)
@@ -9541,17 +9365,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 179.07 210.82 0)
 			(hide yes)
@@ -9645,17 +9458,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -9903,17 +9705,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10234,17 +10025,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 30.48 0)
 			(hide yes)
@@ -10425,17 +10205,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 336.55 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 336.55 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -10794,17 +10563,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 243.84 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 243.84 243.84 0)
 			(hide yes)
@@ -10978,17 +10736,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11231,17 +10978,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 243.84 0)
 			(hide yes)
@@ -11344,17 +11080,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 389.89 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 389.89 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11615,17 +11340,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 157.48 0)
 			(hide yes)
@@ -11784,17 +11498,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 179.07 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 88.9 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11983,17 +11686,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 354.33 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 354.33 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -12406,17 +12098,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 64.77 88.9 0)
 			(hide yes)
@@ -12510,17 +12191,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -12763,17 +12433,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 213.36 0)
 			(hide yes)
@@ -12955,17 +12614,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 218.44 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 220.98 248.92 0)
 			(show_name no)
@@ -13134,17 +12782,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -13405,17 +13042,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 66.04 0)
 			(hide yes)
@@ -13574,17 +13200,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 64.77 66.04 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 58.42 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13761,17 +13376,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -13954,17 +13558,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14158,17 +13751,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 254 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 256.54 128.27 0)
 			(show_name no)
@@ -14328,17 +13910,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 73.66 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 73.66 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -14573,17 +14144,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 209.55 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 27.94 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14836,17 +14396,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 149.86 0)
 			(hide yes)
@@ -14940,17 +14489,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 254 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -15193,17 +14731,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 58.42 0)
 			(hide yes)
@@ -15297,17 +14824,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 254 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -15628,17 +15144,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 147.32 243.84 0)
 			(hide yes)
@@ -15887,17 +15392,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 198.12 0)
 			(hide yes)
@@ -16068,17 +15562,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 45.72 0)
 			(hide yes)
@@ -16172,17 +15655,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -16449,17 +15921,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 243.84 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 243.84 60.96 0)
 			(hide yes)
@@ -16633,17 +16094,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -16956,17 +16406,6 @@
 		)
 		(property "LCSC Part #" "C17714"
 			(at 147.32 129.54 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 121.92 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17321,17 +16760,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 99.06 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 99.06 60.96 0)
 			(hide yes)
@@ -17582,17 +17010,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 157.48 0)
 			(hide yes)
@@ -17751,17 +17168,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 209.55 127 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 119.38 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17940,17 +17346,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 96.52 0)
 			(hide yes)
@@ -18117,17 +17512,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 209.55 149.86 0)
 			(hide yes)
@@ -18221,17 +17605,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -18478,17 +17851,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 106.68 0)
 			(hide yes)
@@ -18725,17 +18087,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 179.07 66.04 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 58.42 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19066,17 +18417,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 210.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 210.82 0)
 			(hide yes)
@@ -19235,17 +18575,6 @@
 		)
 		(property "LCSC Part #" "C17714"
 			(at 147.32 220.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 213.36 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19424,17 +18753,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 248.92 0)
 			(hide yes)
@@ -19528,17 +18846,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 247.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 254 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -19773,17 +19080,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 34.29 187.96 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 180.34 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20114,17 +19410,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 147.32 182.88 0)
 			(hide yes)
@@ -20229,17 +19514,6 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 369.57 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 369.57 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -20620,17 +19894,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 248.92 0)
 			(hide yes)
@@ -20799,17 +20062,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -20982,17 +20234,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 187.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 187.96 0)
 			(hide yes)
@@ -21086,17 +20327,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -21417,17 +20647,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 64.77 180.34 0)
 			(hide yes)
@@ -21521,17 +20740,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -21701,17 +20909,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -21956,17 +21153,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -22228,17 +21414,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 107.95 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 110.49 128.27 0)
 			(show_name no)
@@ -22471,17 +21646,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 241.3 0)
 			(hide yes)
@@ -22640,17 +21804,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 179.07 157.48 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 149.86 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22827,17 +21980,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -23088,17 +22230,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 76.2 0)
 			(hide yes)
@@ -23289,17 +22420,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 99.06 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 99.06 30.48 0)
 			(hide yes)
@@ -23473,17 +22593,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 73.66 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 73.66 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -23730,17 +22839,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 76.2 0)
 			(hide yes)
@@ -23912,17 +23010,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 254 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -24180,17 +23267,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 73.66 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 76.2 157.48 0)
 			(show_name no)
@@ -24427,17 +23503,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 127 0)
 			(hide yes)
@@ -24531,17 +23596,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -24810,17 +23864,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 351.79 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C307331"
 			(at 354.33 40.6338 0)
 			(show_name no)
@@ -25035,17 +24078,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 35.56 0)
 			(hide yes)
@@ -25216,17 +24248,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 228.6 0)
 			(hide yes)
@@ -25329,17 +24350,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 243.84 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 243.84 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -25533,17 +24543,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 218.44 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 220.98 187.96 0)
 			(show_name no)
@@ -25703,17 +24702,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 73.66 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 73.66 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25971,17 +24959,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 107.95 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 110.49 97.79 0)
 			(show_name no)
@@ -26141,17 +25118,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -26565,17 +25531,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 73.66 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 76.2 218.44 0)
 			(show_name no)
@@ -26890,17 +25845,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 218.44 0)
 			(hide yes)
@@ -26994,17 +25938,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -27183,17 +26116,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -27387,17 +26309,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 254 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 256.54 36.83 0)
 			(show_name no)
@@ -27557,17 +26468,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -27747,17 +26647,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 73.66 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 76.2 127 0)
 			(show_name no)
@@ -27926,17 +26815,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -28198,17 +27076,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -28521,17 +27388,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 209.55 248.92 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 241.3 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28866,17 +27722,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 66.04 0)
 			(hide yes)
@@ -29035,17 +27880,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 64.77 127 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 119.38 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29380,17 +28214,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 187.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 187.96 0)
 			(hide yes)
@@ -29557,17 +28380,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 182.88 0)
 			(hide yes)
@@ -29661,17 +28473,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -29914,17 +28715,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 147.32 91.44 0)
 			(hide yes)
@@ -30083,17 +28873,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 179.07 187.96 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 180.34 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30272,17 +29051,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 35.56 0)
 			(hide yes)
@@ -30387,17 +29155,6 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 387.35 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 387.35 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -30545,17 +29302,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 247.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -30725,17 +29471,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -31056,17 +29791,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 34.29 88.9 0)
 			(hide yes)
@@ -31160,17 +29884,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 187.96 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 187.96 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -31495,17 +30208,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 137.16 0)
 			(hide yes)
@@ -31672,17 +30374,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 179.07 241.3 0)
 			(hide yes)
@@ -31841,17 +30532,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 34.29 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 27.94 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32031,17 +30711,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -32284,17 +30953,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 209.55 180.34 0)
 			(hide yes)
@@ -32388,17 +31046,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 215.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -32641,17 +31288,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 152.4 0)
 			(hide yes)
@@ -32818,17 +31454,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 209.55 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 209.55 88.9 0)
 			(hide yes)
@@ -32987,17 +31612,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 179.07 127 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 119.38 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33187,17 +31801,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 254 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 256.54 67.31 0)
 			(show_name no)
@@ -33368,17 +31971,6 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 334.01 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 334.01 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -33677,17 +32269,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 64.77 149.86 0)
 			(hide yes)
@@ -33846,17 +32427,6 @@
 		)
 		(property "LCSC Part #" "C17714"
 			(at 147.32 38.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 30.48 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34031,17 +32601,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 293.37 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 293.37 60.96 0)
 			(hide yes)
@@ -34144,17 +32703,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 243.84 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 243.84 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -34338,17 +32886,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -34591,17 +33128,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 64.77 241.3 0)
 			(hide yes)
@@ -34704,17 +33230,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 243.84 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 243.84 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -34973,17 +33488,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -35386,17 +33890,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 179.07 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 179.07 27.94 0)
 			(hide yes)
@@ -35641,17 +34134,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 147.32 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 147.32 60.96 0)
 			(hide yes)
@@ -35745,17 +34227,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 218.44 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 218.44 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -36080,17 +34551,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 271.78 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 271.78 167.64 0)
 			(hide yes)
@@ -36184,17 +34644,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -36437,17 +34886,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 64.77 27.94 0)
 			(hide yes)
@@ -36541,17 +34979,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 43.18 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 43.18 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -36721,17 +35148,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 107.95 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 107.95 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -37056,17 +35472,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 218.44 0)
 			(hide yes)
@@ -37247,17 +35652,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 243.84 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 243.84 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -37460,17 +35854,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 243.84 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 243.84 182.88 0)
 			(hide yes)
@@ -37663,17 +36046,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 243.84 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C9914"
 			(at 243.84 30.48 0)
 			(hide yes)
@@ -37856,17 +36228,6 @@
 			)
 		)
 		(property "Case" "TSSOP-14"
-			(at 99.06 243.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 99.06 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -38127,17 +36488,6 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 125.73 259.08 0)
 			(hide yes)
@@ -38306,17 +36656,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 125.73 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -38633,17 +36972,6 @@
 		)
 		(property "LCSC Part #" "C17414"
 			(at 64.77 218.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 64.77 210.82 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

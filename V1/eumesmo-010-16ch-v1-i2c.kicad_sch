@@ -5304,7 +5304,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5358,7 +5358,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5379,7 +5379,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5412,18 +5412,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5582,39 +5571,6 @@
 		)
 		(property "LCSC Part #" "C2290"
 			(at 158.8135 76.2 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 80.01 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5858,39 +5814,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "1e7ad908-f1ca-48ac-8f60-9473e1e9e67d")
 		)
@@ -6083,7 +6006,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6060,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 203.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6158,7 +6081,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -6191,18 +6114,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -6361,39 +6273,6 @@
 		)
 		(property "LCSC Part #" "C2290"
 			(at 158.8135 254 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 257.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 257.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 257.81 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6572,17 +6451,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 240.03 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C307331"
 			(at 242.57 125.7238 0)
 			(show_name no)
@@ -6686,7 +6554,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 238.76 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6740,7 +6608,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 241.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6761,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6794,18 +6662,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6972,39 +6829,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2b12c7eb-3e1d-4385-a3dc-82aeb8796394")
 		)
@@ -7042,7 +6866,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 111.76 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7096,7 +6920,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7117,7 +6941,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7150,18 +6974,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7209,7 +7022,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7263,7 +7076,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7284,7 +7097,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7317,18 +7130,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7495,39 +7297,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "5490c485-7081-4b41-b6b2-999dd4fd0db8")
 		)
@@ -7565,7 +7334,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 162.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7619,7 +7388,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7640,7 +7409,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7673,18 +7442,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7732,7 +7490,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7786,7 +7544,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7807,7 +7565,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7840,18 +7598,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8010,39 +7757,6 @@
 		)
 		(property "LCSC Part #" "C2290"
 			(at 158.8135 215.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 219.71 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8300,17 +8014,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 355.6 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C307331"
 			(at 358.14 114.2938 0)
 			(show_name no)
@@ -8533,39 +8236,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "51b5ef3e-71bb-4ae2-b4d7-6a12129b4b57")
 		)
@@ -8603,7 +8273,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8657,7 +8327,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8678,7 +8348,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8711,18 +8381,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8770,7 +8429,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8824,7 +8483,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 254 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8845,7 +8504,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -8878,18 +8537,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 257.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -9171,7 +8819,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 137.16 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9225,7 +8873,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9246,7 +8894,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9279,18 +8927,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9614,39 +9251,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b163915a-3d80-48af-8582-d9f03ab22062")
 		)
@@ -9880,39 +9484,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "816dad01-e817-4069-9e53-b9b3bc600dc3")
 		)
@@ -9950,7 +9521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 309.88 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10071,17 +9642,6 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 307.34 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "878e0110-29df-4468-9c1a-fb68e9afa2f3")
 		)
@@ -10119,7 +9679,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10173,7 +9733,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10194,7 +9754,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10227,18 +9787,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10407,17 +9956,6 @@
 			)
 		)
 		(property "Case" "SOIC-8"
-			(at 269.24 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 269.24 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10668,39 +10206,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "fe2c93ae-25e8-4ce0-947c-3635358c1a70")
 		)
@@ -10738,7 +10243,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10792,7 +10297,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 228.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10813,7 +10318,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -10846,18 +10351,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -10950,17 +10444,6 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 284.48 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 284.48 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11193,39 +10676,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "d226219c-35f7-426b-82ff-fadc0e548eb8")
 		)
@@ -11263,7 +10713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 323.85 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11384,17 +10834,6 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 321.31 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "45fc339c-3130-40b0-a4fc-aa62b273da23")
 		)
@@ -11432,7 +10871,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11486,7 +10925,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11507,7 +10946,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11540,18 +10979,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11678,7 +11106,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11732,7 +11160,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11753,7 +11181,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11786,18 +11214,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11964,39 +11381,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "16abe26b-d867-4a14-b7f4-41e92d619f0b")
 		)
@@ -12071,17 +11455,6 @@
 			)
 		)
 		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28"
-			(at 67.31 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 67.31 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -12403,39 +11776,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "9eef5717-fed6-4c4f-b55d-28d1e267c1d1")
 		)
@@ -12473,7 +11813,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 187.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12527,7 +11867,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12548,7 +11888,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -12581,18 +11921,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -12751,17 +12080,6 @@
 			)
 		)
 		(property "Vendor PN" "C11702"
-			(at 39.37 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 39.37 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -12942,17 +12260,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 85.09 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C307331"
 			(at 87.63 134.6138 0)
 			(show_name no)
@@ -13114,17 +12421,6 @@
 			)
 		)
 		(property "Case" "TSSOP-28"
-			(at 345.44 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 345.44 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13461,7 +12757,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 137.16 213.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13515,7 +12811,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 137.16 215.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13536,7 +12832,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 137.16 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -13569,18 +12865,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
-			(at 137.16 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
+		(property "Vendor PN" "C25104"
 			(at 137.16 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -13825,39 +13110,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "8c837078-e49f-45f7-80b6-cf005ddd5a35")
 		)
@@ -14014,39 +13266,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "58ebf967-dfd7-46ba-a5cb-157464ad4790")
 		)
@@ -14195,39 +13414,6 @@
 		)
 		(property "LCSC Part #" "C2290"
 			(at 158.8135 228.6 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 158.75 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 158.75 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 158.75 232.41 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

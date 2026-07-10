@@ -1881,10 +1881,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "12447a7c-8807-4004-bed1-970e81935a53")
 		(property "Reference" "FID1"
@@ -1942,17 +1942,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
-			(at 22.86 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -1968,10 +1957,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "29a3f34f-5d9e-430b-a539-2b12d1920b4d")
 		(property "Reference" "FID2"
@@ -2019,17 +2008,6 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 22.86 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
 			(at 22.86 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -2117,17 +2095,6 @@
 			)
 		)
 		(property "Case" ""
-			(at 219.71 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 219.71 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -2305,17 +2272,6 @@
 			)
 		)
 		(property "Case" ""
-			(at 219.71 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 219.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -2582,17 +2538,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 219.71 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C2833587"
 			(at 219.71 95.25 0)
 			(hide yes)
@@ -2698,10 +2643,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "974596f4-2eae-468d-b02d-5fdb8fefeb25")
 		(property "Reference" "FID4"
@@ -2759,17 +2704,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
-			(at 22.86 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -2785,10 +2719,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a4e9355e-f95f-42d7-b7ed-00c245c35b50")
 		(property "Reference" "FID3"
@@ -2836,17 +2770,6 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 22.86 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
 			(at 22.86 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -2934,17 +2857,6 @@
 			)
 		)
 		(property "Case" ""
-			(at 219.71 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 219.71 71.12 0)
 			(hide yes)
 			(show_name no)

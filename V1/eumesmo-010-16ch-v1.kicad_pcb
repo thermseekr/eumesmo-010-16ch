@@ -167,7 +167,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "e095f2dc-ea75-4947-b24d-07140eb824cc")
@@ -226,7 +226,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -252,7 +252,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -278,7 +278,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2132,7 +2132,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C161353"
+		(property "LCSC Part #" "C9196"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2145,7 +2145,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Murata Electronics"
+		(property "Mfr" "FH"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2158,7 +2158,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "GR431BR7LA102KW66L"
+		(property "Mfr PN" "1206B102K202NT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2197,7 +2197,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C161353"
+		(property "Vendor PN" "C9196"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6922,7 +6922,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "2f3cc9eb-800c-4388-8e93-ff819c6cd372")
@@ -9252,6 +9252,124 @@
 			)
 		)
 	)
+	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
+		(layer "F.Cu")
+		(uuid "1984cf11-2cbb-4ff8-9b35-a8c3a27ca25d")
+		(at 136.02 70.08)
+		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
+		(tags "fiducial")
+		(property "Reference" "FID1"
+			(at 0 -1.95 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6214ef37-d4f6-4dfd-88c3-91b553a329f3")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 0 1.95 0)
+			(layer "F.Fab")
+			(uuid "6fcaa8e1-7e20-42ac-a064-326e5a90147e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "711b1c03-45be-4c61-86e8-a5c29187d325")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96e94b52-6035-429e-9860-536f47d2247c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "fiducial"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "8d79724e-bc00-4905-932f-87c6d0b7e554")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Fiducial*")
+		(path "/12447a7c-8807-4004-bed1-970e81935a53")
+		(sheetname "/")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
+		(attr smd exclude_from_bom dnp)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center 0 0)
+			(end 1.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "36bd315a-792b-447a-b132-3cdb4b2a6dee")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "af15c3d0-fe41-4acb-9a76-11df62f1a11c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "bf55e5d7-3f79-42f5-85a5-b2c0b3ff47a6")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(pad "" smd circle
+			(at 0 0)
+			(size 1 1)
+			(layers "F.Cu" "F.Mask")
+			(solder_mask_margin 0.5)
+			(clearance 0.6)
+			(uuid "5a1a8e7a-964b-4a06-b847-0637362f7ae6")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Tales:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "1a9f469a-f87f-40ca-9f4b-a305e315f2e3")
@@ -9912,7 +10030,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "0b14a0eb-39e9-4773-a025-f53a411be47f")
@@ -10222,7 +10340,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "9de8263d-502f-447d-9a4a-d08a4942396b")
@@ -12184,7 +12302,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "TP5019"
 			(at 0 2.25 90)
 			(layer "F.Fab")
 			(uuid "13036392-585b-4f03-a5e7-068322538a34")
@@ -12227,6 +12345,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e7b6dd9e-e505-4fd7-8236-61d1c7b45682")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C238131"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ba7315f-c40a-4324-aa29-13c02089e74a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4939a79d-8eaa-4f03-a4e8-ccc1b57f7e75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "570f3be3-8303-4922-af05-ba418808f121")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbb03264-3b9c-4f99-a276-fe28f8e18793")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96b2b8ea-a320-43a5-b344-ad53dbf8e003")
 			(effects
 				(font
 					(size 1 1)
@@ -17496,6 +17679,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -19131,7 +19315,7 @@
 				)
 			)
 		)
-		(property "Value" "5VSH"
+		(property "Value" "TP5019"
 			(at 0 2.25 0)
 			(layer "F.Fab")
 			(uuid "6934258a-b75e-485c-ae38-b48cc894bd3c")
@@ -19174,6 +19358,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6e54c8f3-3147-41fa-8f18-daf2f9f6b78e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C238131"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9407091-d2e6-4854-9bcf-7ad2856ad2f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d560bc4a-83c0-48f1-bce6-1e1f75593f7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c0a8f79-45e7-46ab-821b-9c986251c6a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d05855c-8464-4b28-9503-a785063a40b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5b957ea-b655-4e07-8381-375b6478b052")
 			(effects
 				(font
 					(size 1 1)
@@ -19801,7 +20050,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25852"
+		(property "LCSC Part #" "C281773"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19814,7 +20063,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Uniroyal"
+		(property "Mfr" "Yageo"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19827,7 +20076,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1212TCE"
+		(property "Mfr PN" "RT0402BRD0712K1L"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19866,7 +20115,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25852"
+		(property "Vendor PN" "C281773"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20674,6 +20923,124 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
+		(layer "F.Cu")
+		(uuid "3971814d-e52b-492f-950d-28315c0189a6")
+		(at 215.52 117.33)
+		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
+		(tags "fiducial")
+		(property "Reference" "FID4"
+			(at 0 -1.95 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "554e8027-1017-4ba9-88b5-86f186d09ee5")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 0 1.95 0)
+			(layer "F.Fab")
+			(uuid "f7fe5877-7e27-46d9-931e-60be00df1414")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad937961-be9e-42d9-b732-a194bac2fd56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef80934e-105e-4b4a-832b-f513e2e9bd20")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "fiducial"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e5105bf9-c319-4a0e-8787-709567de05cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Fiducial*")
+		(path "/974596f4-2eae-468d-b02d-5fdb8fefeb25")
+		(sheetname "/")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
+		(attr smd exclude_from_bom dnp)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center 0 0)
+			(end 1.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "bee65dd6-552e-40b8-b8ea-f484cba8fcb2")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "9683f758-f10f-40f5-a5ea-ba130dfec3da")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "2be8fa16-a5cf-4324-bec3-669159fb6db4")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(pad "" smd circle
+			(at 0 0)
+			(size 1 1)
+			(layers "F.Cu" "F.Mask")
+			(solder_mask_margin 0.5)
+			(clearance 0.6)
+			(uuid "387cbbff-5965-4f5a-b1df-df85a6db605e")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 		(layer "F.Cu")
@@ -23935,7 +24302,7 @@
 		(property "Reference" "J7"
 			(at 8.9 -10.3 0)
 			(layer "F.SilkS")
-			(uuid "d6bd38db-3940-4c7d-a0e5-32acbd53a799")
+			(uuid "5db3227c-03ae-4df7-bdc6-2473952dcc48")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -23947,7 +24314,7 @@
 		(property "Value" "ETHERNET"
 			(at 0 12.7 0)
 			(layer "F.Fab")
-			(uuid "e8e1584f-3dd4-4006-a688-c68928ae8277")
+			(uuid "0b589ad2-ac9e-468f-bc18-53a49bf720dd")
 			(effects
 				(font
 					(size 1 1)
@@ -23959,7 +24326,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "19ad1a68-076f-4096-8ab9-25736e4104f3")
+			(uuid "0aca006d-b837-4ef9-88bc-db7911eda24d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23971,7 +24338,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "959a225a-a216-4f4c-bc73-2522f18c7cfa")
+			(uuid "dae999ab-b089-46c2-aa2d-861803f20f5f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24005,7 +24372,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2760325"
+		(property "LCSC Part #" "C6674467"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24031,7 +24398,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "HR915340A"
+		(property "Mfr PN" "HR915340AE"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24070,7 +24437,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2760325"
+		(property "Vendor PN" "C6674467"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25858,7 +26225,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "fe37e88b-db83-41cf-9c0d-4af55777b4e5")
@@ -29805,7 +30172,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "0ce0d50a-8469-40ea-8016-9e9f1cf8d7a7")
@@ -32985,7 +33352,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "d6900cbc-d830-44bb-949f-37e1bea34652")
@@ -33031,7 +33398,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33057,7 +33424,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33096,7 +33463,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33927,7 +34294,7 @@
 		(property "Reference" "J6"
 			(at -4 3 0)
 			(layer "F.SilkS")
-			(uuid "0e5b8362-f320-4e68-b7e1-f041e620179b")
+			(uuid "c0da891c-cba0-444e-9d9b-2a2035f1b352")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -33938,7 +34305,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "c1154427-2e8e-4e3c-a535-27595c1058af")
+			(uuid "58cb1aed-a556-4262-a05a-c3af6932567c")
 			(effects
 				(font
 					(size 1 1)
@@ -33951,7 +34318,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ac92ffda-0a10-4b32-bde2-e96c492d661e")
+			(uuid "a53f99ca-dad7-4582-9f07-776707edcf78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33964,7 +34331,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fe8b0db5-d073-480d-b2d6-eb3719d5c030")
+			(uuid "253cf000-c5ee-4f18-80a1-1b4d03c668fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34978,7 +35345,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C81154"
+		(property "LCSC Part #" "C42738"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35004,7 +35371,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "L78L05ABD13TR"
+		(property "Mfr PN" "L78L05ABUTR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35030,7 +35397,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C81154"
+		(property "Vendor PN" "C42738"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36235,7 +36602,7 @@
 				)
 			)
 		)
-		(property "Value" "3V3"
+		(property "Value" "TP5019"
 			(at 0 2.25 0)
 			(layer "F.Fab")
 			(uuid "3cdbdced-ec98-425e-a31c-a80a0c625b7f")
@@ -36278,6 +36645,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0ed3e59f-9028-4fe7-a515-d77544039bcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C238131"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9329b1b-34d8-48f8-a9a8-6af346f43113")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db84b75e-8257-437d-a339-7d544cd79560")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "797e2224-936d-457e-91d3-e6b838f82161")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71a29962-8ed5-46a2-bf64-a2010452dde0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83e97bf7-8375-4444-9e2e-f604da27da29")
 			(effects
 				(font
 					(size 1 1)
@@ -37567,7 +37999,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "e95b7e30-96eb-431c-b541-9ea24e216d91")
@@ -37613,7 +38045,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37639,7 +38071,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37678,7 +38110,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37875,7 +38307,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "63e1b70e-235e-4252-a903-aa00ed0133f0")
@@ -41043,7 +41475,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "43552c12-3be9-4840-9180-6fe7cccd82ad")
@@ -41089,7 +41521,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41115,7 +41547,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41154,7 +41586,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46666,7 +47098,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "26643a2e-77d2-4c5d-9334-3dfb79706950")
@@ -46975,7 +47407,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "e7117d08-1954-433f-a2fa-5415d0991155")
@@ -47021,7 +47453,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47047,7 +47479,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47086,7 +47518,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48277,136 +48709,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
-		(layer "F.Cu")
-		(uuid "83374e41-4838-4a38-a7cd-6625e4a95b14")
-		(at 291.485 59.355)
-		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
-		(tags "fiducial")
-		(property "Reference" "FID1"
-			(at 0 -1.95 0)
-			(layer "F.SilkS")
-			(uuid "473abdbb-ca05-43dd-93f8-8a4813fe9aa8")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 0 1.95 0)
-			(layer "F.Fab")
-			(uuid "a9164b29-901a-4857-951b-f36bf76d3ac3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c808aa42-eabd-4f59-8f25-a0d77e2756e6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cb97a536-debc-4f32-bf16-3da3380a217f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "323eac83-8f81-4369-8b34-ef7dc7266963")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "580d1cb7-4edb-45aa-a279-f7ce01e2ebae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Fiducial*")
-		(path "/12447a7c-8807-4004-bed1-970e81935a53")
-		(sheetname "/")
-		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 1.25 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "102d3212-706f-40a5-abad-8ac5cd808b6c")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "d2250c2c-b246-444c-aab1-aaf3d6b21f5b")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "73504c53-6309-42be-a785-0604ef5051a0")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(pad "" smd circle
-			(at 0 0)
-			(size 1 1)
-			(layers "F.Cu" "F.Mask")
-			(solder_mask_margin 0.5)
-			(clearance 0.6)
-			(uuid "dfa54aa3-77e3-4dec-b00c-acbe05f25c62")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "Tales:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -50281,7 +50583,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "85d363e2-889b-4eed-853e-5873b2cb1a43")
@@ -50327,7 +50629,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50353,7 +50655,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50392,7 +50694,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51232,7 +51534,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "28707641-e7c5-479d-a4cf-79ee15b4e542")
@@ -51278,7 +51580,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51304,7 +51606,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51343,7 +51645,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52823,136 +53125,6 @@
 			)
 		)
 	)
-	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
-		(layer "F.Cu")
-		(uuid "8b30c95b-630a-46b5-b5ff-03e6a14d55c4")
-		(at 291.485 62.905)
-		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
-		(tags "fiducial")
-		(property "Reference" "FID2"
-			(at 0 -1.95 0)
-			(layer "F.SilkS")
-			(uuid "48d67009-a986-41c6-860e-929ca4e82555")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 0 1.95 0)
-			(layer "F.Fab")
-			(uuid "2d8fc99d-99f7-4908-ae2a-7e110029e5ab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f34eba26-519a-4eaa-93a8-840b0595126f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ae9c7f3b-0984-4db6-9d54-9ffb8e3f8c45")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "917c53d0-3c25-442f-a86b-c5b62b9e5832")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e23e7edd-9b24-4acc-b660-ce9da38fdf9a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Fiducial*")
-		(path "/29a3f34f-5d9e-430b-a539-2b12d1920b4d")
-		(sheetname "/")
-		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 1.25 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "709dc6db-1fbf-4989-8a53-aaebf80228d8")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "e817ecb9-1a2f-4fd7-8003-10ab4260056a")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "fd5d397d-cd74-49ab-9c69-d3b9bed1f208")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(pad "" smd circle
-			(at 0 0)
-			(size 1 1)
-			(layers "F.Cu" "F.Mask")
-			(solder_mask_margin 0.5)
-			(clearance 0.6)
-			(uuid "51546a46-5313-4e49-bcb1-da9899bddbf7")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "Tales:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "8b45f1af-016c-46c6-9737-e0e59c739cf0")
@@ -53936,7 +54108,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "081f9d36-4653-4dfc-8317-100a07e602da")
@@ -53982,7 +54154,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54008,7 +54180,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54047,7 +54219,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56160,7 +56332,7 @@
 				)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "TP5019"
 			(at 0 2.25 90)
 			(layer "F.Fab")
 			(uuid "efa16f3d-e1e8-4097-adda-4c2b4dcd12d0")
@@ -56203,6 +56375,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3448b77-28df-4c87-bf89-a7034d2192e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C238131"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd97a945-eac2-4ce1-a64f-bde2796ca3ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0ed611b-acf4-4484-83aa-1240d7ba844b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9eb23941-161b-4dbf-84a3-92267453895f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da3e53cc-086a-477a-8e1b-21b17aa6e352")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec0006a0-afc9-43db-bfae-b3c3d8c8a26c")
 			(effects
 				(font
 					(size 1 1)
@@ -57022,7 +57259,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "a5a27caa-94a6-4fe0-9ba8-28d73f8d9d79")
@@ -57068,7 +57305,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57094,7 +57331,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57133,7 +57370,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57888,7 +58125,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "aa0ce66e-5376-40ee-aa91-97004cb83e31")
@@ -59804,7 +60041,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "7f87bd79-0764-42c7-8aa2-dfc876f6c9c1")
@@ -59850,7 +60087,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59876,7 +60113,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59915,7 +60152,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60113,7 +60350,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "c2c5495f-ed5e-49d5-86dd-b685bec28a4d")
@@ -60159,7 +60396,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60185,7 +60422,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60224,7 +60461,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63380,7 +63617,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "12760f2f-17b5-4322-bd88-b116b46ee144")
@@ -63426,7 +63663,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63452,7 +63689,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63491,7 +63728,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66149,7 +66386,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "8b637cf2-78b9-4428-acc1-39cdb92fece3")
@@ -66195,7 +66432,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66221,7 +66458,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66260,7 +66497,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71083,6 +71320,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -75211,7 +75449,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "51e60575-82b3-4288-9489-5ffe1fd48cdb")
@@ -75257,7 +75495,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75283,7 +75521,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75322,7 +75560,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76532,7 +76770,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "8bcb80b5-34a7-41c8-ac48-2d418418798c")
@@ -76593,7 +76831,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76619,7 +76857,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76645,7 +76883,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -79388,7 +79626,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "9243641a-e922-4692-965b-2eb64ec41834")
@@ -79434,7 +79672,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -79460,7 +79698,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -79499,7 +79737,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -79678,136 +79916,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
-		(layer "F.Cu")
-		(uuid "d1ca00f7-515e-4020-8446-87208e574fc0")
-		(at 291.485 70.005)
-		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
-		(tags "fiducial")
-		(property "Reference" "FID4"
-			(at 0 -1.95 0)
-			(layer "F.SilkS")
-			(uuid "a70fb82c-569a-4fa3-af8b-5e92a4c3dce4")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 0 1.95 0)
-			(layer "F.Fab")
-			(uuid "8bbcd00d-0be3-4d32-8c72-eeb285119729")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c49cd0c8-23b2-44ad-903e-69492811c21d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f2658e2d-577a-4c8d-913f-1b79d2d70974")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "76b958f1-53b2-4282-853b-9748dc29d78c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b414c088-9e5a-45a5-9aae-63633a2bf5d7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Fiducial*")
-		(path "/974596f4-2eae-468d-b02d-5fdb8fefeb25")
-		(sheetname "/")
-		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 1.25 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "262480d9-4068-4931-9c1f-3af0aa0777d7")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 1 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "68dc6f8d-99d9-41b3-854c-8f7fa675991f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "ed38f208-bbbc-4186-9486-f3372ac8a6be")
-			(effects
-				(font
-					(size 0.8 0.5)
-					(thickness 0.1)
-				)
-			)
-		)
-		(pad "" smd circle
-			(at 0 0)
-			(size 1 1)
-			(layers "F.Cu" "F.Mask")
-			(solder_mask_margin 0.5)
-			(clearance 0.6)
-			(uuid "7f31698a-54a9-4967-af75-0a4c92b6593f")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "Tales:D_SMA"
 		(layer "F.Cu")
@@ -80217,7 +80325,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "afbc0a8b-a4e9-4b4c-98b1-d7805a57d5cc")
@@ -81263,7 +81371,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "c8cabe55-1ce6-4bb0-bc1e-c3928f572959")
@@ -81309,7 +81417,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81335,7 +81443,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81374,7 +81482,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83074,14 +83182,15 @@
 	)
 	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
-		(uuid "d92af92f-29f0-4a48-a5e9-2cc92b158fa4")
-		(at 291.485 66.455)
+		(uuid "d8f1ab87-70ee-4264-8f06-85f356208808")
+		(at 215.52 70.08)
 		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
 		(tags "fiducial")
 		(property "Reference" "FID3"
 			(at 0 -1.95 0)
 			(layer "F.SilkS")
-			(uuid "674e6f5f-c87c-4ebf-84a7-99475b8e30f3")
+			(hide yes)
+			(uuid "a1d4d572-9424-4962-8c01-aab8ffa9f8b7")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -83092,7 +83201,7 @@
 		(property "Value" "Fiducial"
 			(at 0 1.95 0)
 			(layer "F.Fab")
-			(uuid "1e428a3e-1f8c-4a1c-a1ba-2c43141069cf")
+			(uuid "8e056abb-e8a4-4d96-b0f0-a3067e6b9364")
 			(effects
 				(font
 					(size 1 1)
@@ -83104,7 +83213,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "112b23a0-001a-4c10-9551-8d99667f1bc3")
+			(uuid "3f6682e1-8809-4180-8efa-bb5bf51514fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83115,7 +83224,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e0b25f7-988e-4136-9fe8-5a03ae8bbc90")
+			(uuid "0b203665-1c03-46ca-80a8-0222dc17f0bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83126,20 +83235,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "43ee55f3-7ab9-4adc-b123-7949c58288d3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "59f2369f-8701-49b3-b89e-87557223fd17")
+			(uuid "e7c91a9e-aa0d-410f-a639-2f9062337627")
 			(effects
 				(font
 					(size 1 1)
@@ -83157,7 +83253,7 @@
 				(pins)
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -83168,7 +83264,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "73db22aa-c7cf-4ee1-881a-e82029bb0c22")
+			(uuid "ade42530-be73-48dd-a8ef-a4d32d692953")
 		)
 		(fp_circle
 			(center 0 0)
@@ -83179,12 +83275,12 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "ee5580d4-aa6c-4924-8422-8c7facbc5e60")
+			(uuid "f4eb5185-985e-4d26-a5c4-6cf11a9c2acd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "b5ca7f78-a295-43ce-8bcf-ff82a424b054")
+			(uuid "3319881d-c0e0-4fb9-af2a-c6a70225d1cf")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -83198,7 +83294,7 @@
 			(layers "F.Cu" "F.Mask")
 			(solder_mask_margin 0.5)
 			(clearance 0.6)
-			(uuid "c7db0e95-8031-4657-acf2-9065396d53fa")
+			(uuid "96d5ba11-2534-4958-9bfa-aec6bf9ff728")
 		)
 		(embedded_fonts no)
 	)
@@ -84475,6 +84571,124 @@
 			)
 		)
 	)
+	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
+		(layer "F.Cu")
+		(uuid "e09b161f-b991-4654-b4f6-69c868a410f3")
+		(at 136.02 132.08)
+		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
+		(tags "fiducial")
+		(property "Reference" "FID2"
+			(at 0 -1.95 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2b3819ad-8784-4960-bf6d-4dbd98b09fb7")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 0 1.95 0)
+			(layer "F.Fab")
+			(uuid "155df0d7-58ad-4ff2-991e-a9b671995004")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "762deac5-b7dd-4f6e-88be-ccf19ac2da59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfa69109-a45c-47b9-9fe4-31fa8ba52b89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "fiducial"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "facd498b-6a32-4496-b3fb-52c6d8b27f35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Fiducial*")
+		(path "/29a3f34f-5d9e-430b-a539-2b12d1920b4d")
+		(sheetname "/")
+		(sheetfile "eumesmo-010-16ch-v1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
+		(attr smd exclude_from_bom dnp)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center 0 0)
+			(end 1.25 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "227aeda8-7742-464b-ac24-c2a20256fd64")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "d6d174f2-aee1-48a5-8fc2-361109de2cdb")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0ed439aa-b00d-44e9-96a8-a42a051e1b66")
+			(effects
+				(font
+					(size 0.8 0.5)
+					(thickness 0.1)
+				)
+			)
+		)
+		(pad "" smd circle
+			(at 0 0)
+			(size 1 1)
+			(layers "F.Cu" "F.Mask")
+			(solder_mask_margin 0.5)
+			(clearance 0.6)
+			(uuid "ac776972-61ea-4b2d-a685-3d34d4d1556e")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Tales:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "e0bfe6c2-f773-402c-9ff0-c9600de810e2")
@@ -84813,7 +85027,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "ff0f10f5-e50b-46de-b00f-52a943f5bb10")
@@ -85436,7 +85650,7 @@
 		(property "Reference" "U6"
 			(at -3 -3.25 0)
 			(layer "F.SilkS")
-			(uuid "baef05f7-f4e4-41ad-b915-35aa1ca00a0b")
+			(uuid "b53064f5-37a4-4c02-baae-1cdafe480b50")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -85447,7 +85661,7 @@
 		(property "Value" "CH340K"
 			(at 0 3.4 0)
 			(layer "F.Fab")
-			(uuid "594aa4a6-ead4-4145-9576-9116ce95b2b1")
+			(uuid "060ee36e-237d-4e94-84e4-18b9fbe2ec1a")
 			(effects
 				(font
 					(size 1 1)
@@ -85459,7 +85673,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "216bac9c-d052-4985-bfa3-f5348203dba4")
+			(uuid "4dc98f85-f623-4589-9eaf-e8b24c107a76")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85470,7 +85684,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2a48a46f-2d8b-4608-a4c3-3a020d2ed167")
+			(uuid "08e18c3e-bb9d-432e-843a-cc2c63540db3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85920,7 +86134,7 @@
 		(property "Reference" "U8"
 			(at 3.5 2.5 180)
 			(layer "F.SilkS")
-			(uuid "741b9585-c4b3-46f9-a469-afb9f8314bc8")
+			(uuid "7c98da9b-cacb-443b-b37c-a7823a295e15")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -85931,7 +86145,7 @@
 		(property "Value" "LAN8710A"
 			(at 0 3.82 0)
 			(layer "F.Fab")
-			(uuid "a1a45e67-b9e8-4477-9897-0440ef0a82bd")
+			(uuid "e154733d-c9dc-4af7-b706-2a5d236521b1")
 			(effects
 				(font
 					(size 1 1)
@@ -85943,7 +86157,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df58c895-1dad-4f62-8f10-6db8dea0b9f5")
+			(uuid "8e43f02c-3ca1-4130-83ec-e63f2d15a947")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85955,7 +86169,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71e87d95-0ed4-437b-8873-1835cc10df5d")
+			(uuid "49165b46-b64a-4fae-979d-804f54f6c5f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87309,7 +87523,7 @@
 				)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "89261378-bb06-4a2c-96db-78405dc3347d")
@@ -87355,7 +87569,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87381,7 +87595,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87420,7 +87634,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -88408,7 +88622,7 @@
 		(property "Reference" "U1"
 			(at -2.75 3 0)
 			(layer "F.SilkS")
-			(uuid "03d5e65e-be68-44a0-a45b-4ff6fb027ff8")
+			(uuid "1e771ee2-7d8b-4aab-9f91-2e2a6fe5f149")
 			(effects
 				(font
 					(size 0.8 0.5)
@@ -88419,7 +88633,7 @@
 		(property "Value" "TX4138"
 			(at 0 3.4 90)
 			(layer "F.Fab")
-			(uuid "9de37ac6-3b1c-43d6-84c1-2a7e19295030")
+			(uuid "8976d0d8-8bd3-41c3-b37a-904bb302e41b")
 			(effects
 				(font
 					(size 1 1)
@@ -88431,7 +88645,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "887770df-f1c6-47b8-b06c-1441e8155f28")
+			(uuid "b126adf7-f359-47d1-ade6-99c1d5978588")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88443,7 +88657,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cb79a87e-7c29-403b-b3ac-cc411c789c8d")
+			(uuid "995a3cab-f05a-4031-b431-fed472c4e871")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -92845,7 +93059,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2k"
+		(property "Value" "2,2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "14d7f81d-3a72-4abc-9b8a-2efd95acedb2")

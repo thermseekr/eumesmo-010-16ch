@@ -6013,7 +6013,7 @@
 		)
 		(uuid "f38457a6-dc9f-4a76-8e6f-f7c7008488b5")
 	)
-	(text "V_{F} = 2.68V @2.0mA\nR_{LED} = (3.3V - 2.68V) / 2.0mA\nR_{LED} = 0.62 / 0.002\nR_{LED} = 310 ohm\nUSE C25102 300R -> 2.07mA"
+	(text "V_{F} = 2.68V @2.0mA\nR_{LED} = (3.3V - 2.68V) / 2.0mA\nR_{LED} = 0.62 / 0.002\nR_{LED} = 310 ohm\nUSE C25104 330R -> 1.88mA"
 		(exclude_from_sim no)
 		(at 137.16 195.58 0)
 		(effects
@@ -8659,7 +8659,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "300R"
+		(property "Value" "330R"
 			(at 129.54 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8725,7 +8725,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3000TCE"
+		(property "Mfr PN" "0402WGF3300TCE"
 			(at 127 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8747,7 +8747,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25102"
+		(property "Vendor PN" "C25104"
 			(at 127 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8769,7 +8769,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25102"
+		(property "LCSC Part #" "C25104"
 			(at 129.54 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8778,17 +8778,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -8959,17 +8948,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 176.53 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C169386"
 			(at 176.53 46.99 90)
 			(show_name no)
@@ -9116,17 +9094,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
-			(at 156.21 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "007e5c94-85ff-41a9-a68c-422cee0e83a7")
 		)
@@ -9218,17 +9185,6 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 215.9 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 215.9 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -9398,17 +9354,6 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 123.19 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 123.19 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9643,17 +9588,6 @@
 			)
 		)
 		(property "Case" "SOT-23-5"
-			(at 54.61 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 54.61 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -10210,17 +10144,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 86.36 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic C0G"
 			(at 88.9 167.6462 0)
 			(show_name no)
@@ -10390,17 +10313,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 130.81 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 133.35 114.3 0)
 			(show_name no)
@@ -10560,17 +10472,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 74.93 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 74.93 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -10786,17 +10687,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 102.87 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C7519"
 			(at 104.14 127 0)
 			(show_name no)
@@ -10922,17 +10812,6 @@
 			)
 		)
 		(property "Description" "Schottky diode, small symbol"
-			(at 227.33 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 227.33 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11112,17 +10991,6 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 257.81 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 257.81 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11523,17 +11391,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 156.21 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C65010"
 			(at 158.75 54.61 90)
 			(show_name no)
@@ -11748,17 +11605,6 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 190.5 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 190.5 132.08 0)
 			(hide yes)
@@ -11818,7 +11664,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3V3"
+		(property "Value" "TP5019"
 			(at 116.84 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11862,7 +11708,51 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
+		(property "LCSC Part #" "C238131"
+			(at 118.11 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 118.11 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 118.11 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 118.11 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
 			(at 118.11 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -12024,39 +11914,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 58.42 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 58.42 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 58.42 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "a8756390-b9bc-43de-9a8d-d9f1eb449c62")
 		)
@@ -12128,17 +11985,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 242.57 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
 			(at 242.57 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12404,17 +12250,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 142.24 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C5672"
 			(at 144.78 171.45 0)
 			(show_name no)
@@ -12629,17 +12464,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 157.48 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 157.48 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -12897,17 +12721,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 175.26 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X7R"
 			(at 177.8 82.55 0)
 			(show_name no)
@@ -13067,17 +12880,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 90.17 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 90.17 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -13269,17 +13071,6 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 111.76 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 111.76 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -13527,17 +13318,6 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 36.83 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 36.83 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -13839,17 +13619,6 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 168.91 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" ""
 			(at 168.91 34.29 0)
 			(hide yes)
@@ -14009,17 +13778,6 @@
 		)
 		(property "LCSC Part #" "C309528"
 			(at 257.81 35.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 257.81 39.37 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14221,17 +13979,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 99.06 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C5369469"
 			(at 99.06 76.2 0)
 			(hide yes)
@@ -14408,7 +14155,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "TP5019"
 			(at 266.7 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14452,7 +14199,51 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
+		(property "LCSC Part #" "C238131"
+			(at 267.97 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 267.97 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 267.97 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 267.97 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
 			(at 267.97 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -14941,17 +14732,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 34.29 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mfr" "Wago"
 			(at 34.29 29.21 0)
 			(hide yes)
@@ -15100,17 +14880,6 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 234.95 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 234.95 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -15511,17 +15280,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 247.65 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C139168"
 			(at 247.65 121.92 90)
 			(show_name no)
@@ -15690,17 +15448,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 222.25 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C96179"
 			(at 224.79 53.34 0)
 			(show_name no)
@@ -15838,17 +15585,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 68.58 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 68.58 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -16115,17 +15851,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 203.2 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C558305"
 			(at 200.66 121.92 90)
 			(show_name no)
@@ -16310,7 +16035,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5VSH"
+		(property "Value" "TP5019"
 			(at 245.11 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16354,7 +16079,51 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
+		(property "LCSC Part #" "C238131"
+			(at 246.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 246.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 246.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 246.38 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
 			(at 246.38 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -16463,17 +16232,6 @@
 			)
 		)
 		(property "Case" "SOT-23-3"
-			(at 220.98 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 220.98 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16600,17 +16358,6 @@
 			)
 		)
 		(property "Description" "Schottky diode, small symbol"
-			(at 139.7 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 139.7 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -16810,7 +16557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "TP5019"
 			(at 50.8 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16854,7 +16601,51 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "0"
+		(property "LCSC Part #" "C238131"
+			(at 52.07 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Keystone"
+			(at 52.07 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "5019"
+			(at 52.07 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 52.07 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C238131"
 			(at 52.07 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16999,17 +16790,6 @@
 		)
 		(property "LCSC Part #" "C25197"
 			(at 156.21 25.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 156.21 29.21 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17187,17 +16967,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 107.95 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Package" ""
@@ -17548,17 +17317,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 185.42 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C38523"
 			(at 187.96 54.61 0)
 			(show_name no)
@@ -17646,10 +17404,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b40a9ca9-ef39-40af-8cfa-16b3516fd247")
 		(property "Reference" "TP4"
 			(at 224.79 116.84 0)
@@ -17694,17 +17452,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 224.79 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
 			(at 224.79 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -17804,17 +17551,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 203.2 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "LCSC Part #" "C23198"
@@ -17986,17 +17722,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 203.2 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "LCSC Part #" "C23024"
@@ -18244,17 +17969,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 138.43 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C329267"
 			(at 138.43 25.4 0)
 			(show_name no)
@@ -18433,18 +18147,7 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 144.78 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C81154"
+		(property "LCSC Part #" "C42738"
 			(at 144.78 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -18466,7 +18169,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "L78L05ABD13TR"
+		(property "Mfr PN" "L78L05ABUTR"
 			(at 144.78 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -18488,7 +18191,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C81154"
+		(property "Vendor PN" "C42738"
 			(at 144.78 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -18523,10 +18226,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c29cf23c-7483-49d0-9de8-1b3548c25301")
 		(property "Reference" "TP5"
 			(at 266.7 116.84 0)
@@ -18571,17 +18274,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 266.7 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "0"
 			(at 266.7 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -18848,17 +18540,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 170.18 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Technology" "Ceramic X5R"
 			(at 172.72 133.35 0)
 			(show_name no)
@@ -19007,17 +18688,6 @@
 			)
 		)
 		(property "Case" "0805/2012"
-			(at 105.41 179.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 105.41 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -19186,17 +18856,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 105.41 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C149504"
 			(at 107.95 170.18 0)
 			(show_name no)
@@ -19334,17 +18993,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 88.9 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 88.9 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -19523,17 +19171,6 @@
 			)
 		)
 		(property "Case" "3x3"
-			(at 78.74 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 78.74 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -20067,17 +19704,6 @@
 				)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 73.66 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC Part #" "C129415"
 			(at 77.47 41.91 0)
 			(show_name no)
@@ -20401,17 +20027,6 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB BOM" "1"
-			(at 203.2 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "24ad9281-b012-4a94-aa6e-62bb5286535c")
 		)
@@ -20482,17 +20097,6 @@
 			)
 		)
 		(property "Description" "USB 2.0-only Type-C Receptacle connector"
-			(at 40.64 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB BOM" "1"
 			(at 40.64 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -20869,39 +20473,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 127 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pin" "1=K 2=A"
-			(at 127 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 127 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
