@@ -2693,7 +2693,7 @@
 		)
 		(uuid "535a68b4-ec23-4ab8-aaa0-f76c8a745cc1")
 	)
-	(text "PCA9685 DEVE SER CONFIGURADO\nPARA FREQUÊNCIA PWM DE 1526 Hz."
+	(text "PCA9685 MUST BE CONFIGURED\nFOR PWM FREQUENCY OF 1526 Hz."
 		(exclude_from_sim no)
 		(at 321.31 191.77 0)
 		(effects
