@@ -3,9 +3,10 @@ ESP32 based board with 16x 0-10V analog output, for light dimming control. The b
 
 The board is compatible with the SP7 DIN rail system from Metaltex.
 
-![eumesmo-010-16ch](https://github.com/thermseekr/eumesmo-010-16ch/blob/main/V1/eumesmo-010-16ch-v1.0.png)
+![eumesmo-010-16ch](https://github.com/thermseekr/eumesmo-010-16ch/blob/main/V1/eumesmo-010-16ch-v1.1.png)
 
 ## VERSION HISTORY
+2026-09-22 V1.0 - RJ45 jack and terminal blocks repositioned inwards the board to make space for the PCB holder. ETH tracks rerouted for better EMC.
 
 2026-07-02 V1.0 - Initial release.
 
