@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "eumesmo 24V 16x 0-10V module")
-		(date "2026-06-23")
+		(date "2026-09-22")
 		(rev "V1.0")
 	)
 	(lib_symbols
