@@ -2682,6 +2682,17 @@
 		)
 		(uuid "17821257-d39b-4f99-abb9-fe03c093515b")
 	)
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (3.3V - V_{F}) / R\nI_{LED} = (3.3V - 1.8V) / 680R\nI_{LED} = 2,20 mA"
+		(exclude_from_sim no)
+		(at 132.08 273.05 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ee60ac9-d9f4-4be4-bb87-0212b7b96d63")
+	)
 	(text "RESISTORS: 62,5mW WHERE NOT SPECIFIED"
 		(exclude_from_sim no)
 		(at 304.8 261.62 0)
@@ -5304,7 +5315,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5358,7 +5369,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5379,7 +5390,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5412,7 +5423,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5460,7 +5471,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5514,7 +5525,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -5525,7 +5536,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -5558,7 +5569,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -5569,7 +5580,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5695,7 +5706,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5749,7 +5760,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5760,7 +5771,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5793,7 +5804,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5804,7 +5815,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6006,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6060,7 +6071,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 203.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6081,7 +6092,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -6114,7 +6125,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -6162,7 +6173,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 251.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6216,7 +6227,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -6227,7 +6238,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -6260,7 +6271,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -6271,7 +6282,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 254 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6554,7 +6565,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 238.76 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6608,7 +6619,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 241.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6629,7 +6640,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6662,7 +6673,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6710,7 +6721,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6764,7 +6775,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6775,7 +6786,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6808,7 +6819,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -6819,7 +6830,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6866,7 +6877,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 111.76 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6920,7 +6931,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 114.3 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6941,7 +6952,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6974,7 +6985,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7022,7 +7033,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7076,7 +7087,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7097,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7130,7 +7141,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7178,7 +7189,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7232,7 +7243,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -7243,7 +7254,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -7276,7 +7287,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -7287,7 +7298,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 177.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7334,7 +7345,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 162.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7388,7 +7399,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7409,7 +7420,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7442,7 +7453,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7490,7 +7501,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7544,7 +7555,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7565,7 +7576,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7598,7 +7609,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7646,7 +7657,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 213.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7700,7 +7711,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -7711,7 +7722,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -7744,7 +7755,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -7755,7 +7766,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 215.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8117,7 +8128,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8171,7 +8182,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8182,7 +8193,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8215,7 +8226,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8226,7 +8237,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8273,7 +8284,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8429,7 +8440,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8483,7 +8494,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 254 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8504,7 +8515,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -8537,7 +8548,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -8819,7 +8830,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 137.16 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8873,7 +8884,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 139.7 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8894,7 +8905,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8927,7 +8938,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9132,7 +9143,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9186,7 +9197,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9197,7 +9208,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9230,7 +9241,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9241,7 +9252,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9365,7 +9376,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9419,7 +9430,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -9430,7 +9441,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -9463,7 +9474,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -9474,7 +9485,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9679,7 +9690,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9733,7 +9744,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9754,7 +9765,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9787,7 +9798,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10087,7 +10098,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10141,7 +10152,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -10152,7 +10163,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -10185,7 +10196,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -10196,7 +10207,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10243,7 +10254,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10297,7 +10308,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 228.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10318,7 +10329,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -10351,7 +10362,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -10557,7 +10568,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10611,7 +10622,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10622,7 +10633,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10655,7 +10666,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10666,7 +10677,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10871,7 +10882,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10925,7 +10936,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10946,7 +10957,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -10979,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11106,7 +11117,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11160,7 +11171,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11181,7 +11192,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11214,7 +11225,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11262,7 +11273,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11316,7 +11327,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -11327,7 +11338,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -11360,7 +11371,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -11371,7 +11382,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11657,7 +11668,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11711,7 +11722,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -11722,7 +11733,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -11755,7 +11766,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -11766,7 +11777,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11813,7 +11824,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 187.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11867,7 +11878,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11888,7 +11899,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -11921,7 +11932,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -12757,7 +12768,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 137.16 213.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12811,7 +12822,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 137.16 215.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12832,7 +12843,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 137.16 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -12865,7 +12876,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 137.16 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -12991,7 +13002,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13045,7 +13056,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13056,7 +13067,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13089,7 +13100,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13100,7 +13111,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13147,7 +13158,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13201,7 +13212,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13212,7 +13223,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13245,7 +13256,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13256,7 +13267,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13303,7 +13314,7 @@
 				)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 158.8135 226.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13357,7 +13368,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 158.75 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -13368,7 +13379,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 158.75 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -13401,7 +13412,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 158.75 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -13412,7 +13423,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 158.8135 228.6 0)
 			(show_name no)
 			(do_not_autoplace no)

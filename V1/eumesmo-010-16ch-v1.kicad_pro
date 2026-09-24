@@ -948,18 +948,18 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
           "show": true
         },
         {
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Reference",
-          "name": "Reference",
           "show": true
         },
         {
@@ -990,18 +990,12 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Case",
           "name": "Case",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
           "show": true
         },
         {
@@ -1030,6 +1024,12 @@
         },
         {
           "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
@@ -1038,7 +1038,19 @@
           "group_by": false,
           "label": "Package",
           "name": "Package",
-          "show": true
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "FT Rotation Offset",
+          "name": "FT Rotation Offset",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "FT Position Offset",
+          "name": "FT Position Offset",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1107,7 +1119,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "U9",
+    "used_designators": "R134,U9",
     "variants": []
   },
   "sheets": [

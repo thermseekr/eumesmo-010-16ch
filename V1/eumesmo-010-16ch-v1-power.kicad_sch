@@ -5989,6 +5989,17 @@
 		)
 		(uuid "c4efffed-2ce4-46f8-b655-23e4e72df44a")
 	)
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (3.3V - V_{F}) / R\nI_{LED} = (3.3V - 1.8V) / 680R\nI_{LED} = 2,20 mA"
+		(exclude_from_sim no)
+		(at 140.97 194.31 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3bdad81-a4f6-441e-acab-323e190341ce")
+	)
 	(text "ANALOG POWER RAILS"
 		(exclude_from_sim no)
 		(at 110.49 64.77 0)
@@ -6012,17 +6023,6 @@
 			(justify left bottom)
 		)
 		(uuid "f38457a6-dc9f-4a76-8e6f-f7c7008488b5")
-	)
-	(text "V_{F} = 2.68V @2.0mA\nR_{LED} = (3.3V - 2.68V) / 2.0mA\nR_{LED} = 0.62 / 0.002\nR_{LED} = 310 ohm\nUSE C25104 330R -> 1.88mA"
-		(exclude_from_sim no)
-		(at 137.16 195.58 0)
-		(effects
-			(font
-				(size 1.5 1.5)
-			)
-			(justify left bottom)
-		)
-		(uuid "f6e5bab2-80b9-4bb4-9171-1553b34c618c")
 	)
 	(text "R2"
 		(exclude_from_sim no)
@@ -8632,164 +8632,6 @@
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 127 166.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "08640ab0-e46d-4ec3-81ee-ddaca91e09a9")
-		(property "Reference" "R11"
-			(at 129.54 165.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330R"
-			(at 129.54 167.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Tales:R_0402_1005Metric"
-			(at 128.016 166.624 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Case" "0402/1005"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfr" "Uniroyal"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mfr PN" "0402WGF3300TCE"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Vendor" "JLCPCB"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Vendor PN" "C25104"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Technology" "1%"
-			(at 127 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" "C25104"
-			(at 129.54 170.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "cc45daeb-54e3-49db-b690-a0336eb0a419")
-		)
-		(pin "2"
-			(uuid "fa2dcfef-5103-46a6-a15a-5434792aa56c")
-		)
-		(instances
-			(project "eumesmo-010-16ch-v1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -11637,6 +11479,197 @@
 			(project "eumesmo-010-16ch-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 127 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3ff24acd-e805-4982-ae6a-145a7f88b63f")
+		(property "Reference" "R11"
+			(at 129.54 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "680R"
+			(at 129.54 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:R_0402_1005Metric"
+			(at 128.016 166.624 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Case" "0402/1005"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Uniroyal"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "0402WGF6800TCE"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C25130"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Technology" "1%"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25130"
+			(at 129.54 170.18 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 127 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f02b0f6-795e-401d-a1b4-17d6f182bdc2")
+		)
+		(pin "2"
+			(uuid "5553be71-660f-4e57-91a6-8e9851685258")
+		)
+		(instances
+			(project "eumesmo-010-16ch-v1"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -20354,7 +20387,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "ORANGE/0603"
 			(at 129.54 181.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20409,7 +20442,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 127 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20420,7 +20453,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 127 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20453,7 +20486,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2987557"
 			(at 127 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -20464,7 +20497,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2987557"
 			(at 129.54 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
