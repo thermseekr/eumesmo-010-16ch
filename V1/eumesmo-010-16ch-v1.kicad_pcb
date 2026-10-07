@@ -2479,6 +2479,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b3973ca-4ce0-4079-8e96-d7d64b671848")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "RJ45*Wuerth*7499010121A*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/877a384e-bf79-4264-b177-325d1e4235fd")
 		(sheetname "/LAN/")
@@ -13519,6 +13532,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f3afdc0-1bbf-4236-92be-450eb3df9986")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/2eba6e2e-f9bf-4d4b-a87f-18c5c7cdcd1f")
 		(sheetname "/Power/")
@@ -14943,6 +14969,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c7a9c977-d8d2-4199-b9f6-fe5e4c2db68f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7999d584-bef4-407a-9bcd-71b11ad9d7c2")
 			(effects
 				(font
 					(size 1 1)
@@ -21509,6 +21548,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80414138-d7aa-4758-9165-52c8ad6faae4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/e4844673-51f7-4d04-999e-9cc28d737300")
 		(sheetname "/Power/")
@@ -23038,7 +23090,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25992,6 +26044,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e983e174-f21e-45e2-b405-53e5159d2fa2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f9a954e-1b2d-4ea4-bb26-fbc03197c73c")
 			(effects
 				(font
 					(size 1 1)
@@ -33483,6 +33548,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fefeffba-e093-4131-bf77-0247709b0570")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32d2523d-685a-46a1-a942-ce26cce4ea21")
 			(effects
 				(font
 					(size 1 1)
@@ -48077,6 +48155,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baa45476-9708-41e2-b03f-c7395988e26e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/92c516cc-0df4-4e55-a948-18726a4ad0c5")
 		(sheetname "/Power/")
@@ -49828,7 +49919,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49854,7 +49945,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49893,7 +49984,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63907,7 +63998,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85609,6 +85700,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb4bf0e9-1f56-4831-a7a9-49da6da08e1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "QFN*1EP*5x5mm*P0.5mm*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/d1f01a80-4c60-480e-a9c5-499faed1789a")
 		(sheetname "/LAN/")
@@ -97215,94 +97319,6 @@
 		)
 	)
 	(segment
-		(start 129.485 88.795)
-		(end 129.02 88.33)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "51e8c2eb-faeb-4756-b0ad-aa9c7107053b")
-	)
-	(segment
-		(start 119.27 88.33)
-		(end 118.77 87.83)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "678078dd-fecb-4b20-88de-25abe6e5c804")
-	)
-	(segment
-		(start 129.485 89.68)
-		(end 129.485 88.795)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "8b5d62c1-b8bc-4ff7-be6a-a9773605c08e")
-	)
-	(segment
-		(start 111.77 87.83)
-		(end 105.28 87.83)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "914bdb06-2569-44c7-923a-f9d4984fad84")
-	)
-	(segment
-		(start 129.02 88.33)
-		(end 119.27 88.33)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "a3c191cc-ec3f-4fd5-bbb6-f2d566f9df50")
-	)
-	(segment
-		(start 118.77 87.83)
-		(end 116.52 87.83)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "d1ea859c-849d-4015-bba8-2a554aad9511")
-	)
-	(via
-		(at 116.52 87.83)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "2601ba57-37f1-4243-b158-fc5b15bab611")
-	)
-	(via
-		(at 111.77 87.83)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "707701d0-f6bd-47e1-b979-5a61cbe02e9a")
-	)
-	(segment
-		(start 116.52 87.83)
-		(end 111.77 87.83)
-		(width 0.25)
-		(layer "B.Cu")
-		(net "/MCU/CPUOK")
-		(uuid "34b5cfe9-6ece-49bb-8b1a-02bcba99d09a")
-	)
-	(segment
-		(start 104.9925 86.5425)
-		(end 105.27 86.82)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "/MCU/CPULED")
-		(uuid "0b2f9d54-a81a-4ac6-85fe-096d455d9aed")
-	)
-	(segment
-		(start 103.27 86.5425)
-		(end 104.9925 86.5425)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "/MCU/CPULED")
-		(uuid "92afa7d7-d6f9-432f-a56c-102e5bb00308")
-	)
-	(segment
 		(start 174.8575 111.83)
 		(end 173.52 111.83)
 		(width 0.3)
@@ -104443,6 +104459,78 @@
 		(uuid "d61769aa-1304-4ed4-aee8-b4178d52e7f7")
 	)
 	(segment
+		(start 129.485 88.795)
+		(end 129.02 88.33)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "51e8c2eb-faeb-4756-b0ad-aa9c7107053b")
+	)
+	(segment
+		(start 119.27 88.33)
+		(end 118.77 87.83)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "678078dd-fecb-4b20-88de-25abe6e5c804")
+	)
+	(segment
+		(start 129.485 89.68)
+		(end 129.485 88.795)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "8b5d62c1-b8bc-4ff7-be6a-a9773605c08e")
+	)
+	(segment
+		(start 111.77 87.83)
+		(end 105.28 87.83)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "914bdb06-2569-44c7-923a-f9d4984fad84")
+	)
+	(segment
+		(start 129.02 88.33)
+		(end 119.27 88.33)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "a3c191cc-ec3f-4fd5-bbb6-f2d566f9df50")
+	)
+	(segment
+		(start 118.77 87.83)
+		(end 116.52 87.83)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "d1ea859c-849d-4015-bba8-2a554aad9511")
+	)
+	(via
+		(at 116.52 87.83)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "2601ba57-37f1-4243-b158-fc5b15bab611")
+	)
+	(via
+		(at 111.77 87.83)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "707701d0-f6bd-47e1-b979-5a61cbe02e9a")
+	)
+	(segment
+		(start 116.52 87.83)
+		(end 111.77 87.83)
+		(width 0.25)
+		(layer "B.Cu")
+		(net "/MCU/CPUOK")
+		(uuid "34b5cfe9-6ece-49bb-8b1a-02bcba99d09a")
+	)
+	(segment
 		(start 102.9325 84.7425)
 		(end 103.27 85.08)
 		(width 0.3)
@@ -110109,6 +110197,22 @@
 		(layer "F.Cu")
 		(net "/LAN/VCDDR")
 		(uuid "d2582e5f-5e6b-47a0-a9a1-f303f7db11c3")
+	)
+	(segment
+		(start 104.9925 86.5425)
+		(end 105.27 86.82)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/MCU/CPULED")
+		(uuid "0b2f9d54-a81a-4ac6-85fe-096d455d9aed")
+	)
+	(segment
+		(start 103.27 86.5425)
+		(end 104.9925 86.5425)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "/MCU/CPULED")
+		(uuid "92afa7d7-d6f9-432f-a56c-102e5bb00308")
 	)
 	(segment
 		(start 117.27 92.58)

@@ -7073,7 +7073,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" ""
 			(at 232.41 71.12 90)
 			(hide yes)
 			(show_name no)

@@ -9203,6 +9203,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 48.26 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19d09fd6-0d12-4d54-994b-aa7d15428be4")
 		)
@@ -11105,6 +11116,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "90"
+			(at 252.73 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7e3a075-311a-4c38-8b68-5699be25e3a2")
 		)
@@ -11436,6 +11458,17 @@
 			)
 		)
 		(property "Vendor PN" "C46185"
+			(at 176.53 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 176.53 88.9 0)
 			(hide yes)
 			(show_name no)
